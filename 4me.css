@@ -1,0 +1,141 @@
+body {
+	margin: 20px auto;
+	background: url('backdrop0.png') repeat-x;
+	background-color: #BF5656;
+}
+.fotorama {
+        box-shadow: 0px 0px 15px #dddddd;
+	width: 770px;
+	padding: 35px;
+	box-sizing: border-box;
+}
+.fotorama__wrap {
+    margin: 0 auto;
+}
+#menubar {
+	margin: 0px;
+	width: 100%;
+	border-bottom: 1px solid #dddddd;
+}
+#menubar ul {
+	position:  absolute;
+	display: inline-block;
+	padding: 0px;
+
+	width: 1160px;
+	
+}
+#menubar ul li {
+	display: block;
+	float: right;
+	padding: 10px;
+	color: #999999;
+	border-bottom: 1px solid #dddddd;
+
+	
+}
+#menubar ul li:hover, .selected {
+	background: #dbdbdb;
+}
+#container {
+	margin: auto;
+
+	width: 1200px;
+	height: auto;
+        min-height: 900px;
+	padding-bottom: 20px;
+	background: white;
+
+
+	box-shadow: 0px 0px 10px #666666;
+}
+
+#header {
+
+	text-align: center;
+	width: 100%;
+	height: 400px;
+	padding-bottom: 15px;
+
+}
+.logo {
+	position: absolute;
+	text-align: center;
+
+        padding: 35px;
+
+}
+
+#thewheel {
+	display: inline-block;
+	position: absolute;
+	transform: scale(0.55);
+	padding: 20px;
+	box-sizing: border-box;
+
+
+	float: right;
+	margin-left: 60px;
+	margin-top: -80px;
+
+
+}
+#content {
+
+	display: block;
+        height: auto;
+	min-height: 460px;
+	width: 960px;
+	margin: 20px;
+
+	box-sizing: border-box;
+	padding: 15px;
+
+
+}
+#vids {
+	float: right;
+        display: inline-block;
+	width: 120px;
+	box-sizing: border-box;
+        margin-top: 0px;
+
+
+}
+.vidbox.first:before {
+	font-size: 20px;
+	content: "Trending";
+
+	padding: 5px;
+
+}
+.vidbox {
+	display: inline-block;
+
+	font-size: 12px;
+	padding-bottom: 15px;
+}
+
+#content p {
+	display: inline-block;
+	width: 770px;
+	
+
+	box-shadow: 0px 0px 15px #dddddd;
+	padding: 35px;
+	box-sizing: border-box;
+
+	margin-top: -5px;
+	clear: both;
+}
+#footer {
+	margin: auto;
+	width: 80%;
+	text-align: center;
+	border-top: 1px solid #aaaaaa;
+	padding-top: 20px;
+	font-size: 12px;
+}
+.clear {
+	clear: both;
+}
