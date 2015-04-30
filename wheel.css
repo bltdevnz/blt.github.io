@@ -5,9 +5,9 @@
 div.wheelcontainer {
 	box-sizing: border-box;
 	
-
+	text-align: center;
 	display: inline-block;
-
+	position: relative;
 
 	width: 615px;
 	height: 603px;
