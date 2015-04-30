@@ -130,6 +130,14 @@ body {
 	font-size: 12px;
 	padding-bottom: 15px;
 }
+.feed {
+	display: inline-block;
+
+	font-size: 12px;
+	padding-bottom: 15px;
+	width: 320px;
+}
+
 
 #content p {
 	display: inline-block;
