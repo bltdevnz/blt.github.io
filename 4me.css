@@ -4,8 +4,8 @@ body {
 	background-color: #BF5656;
 }
 .fotorama {
-        box-shadow: 0px 0px 15px #dddddd;
-	width: 770px;
+    box-shadow: 0px 0px 15px #dddddd;
+	width: 100%;
 	padding: 35px;
 	box-sizing: border-box;
 }
