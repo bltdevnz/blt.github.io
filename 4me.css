@@ -16,7 +16,7 @@ body {
 }
 #menubar {
 	z-index: 10;
-	display: block;
+	display: inline-block;
 	margin: 0px;
 	width: 100%;
 	border-bottom: 1px solid #dddddd;
