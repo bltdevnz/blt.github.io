@@ -7,10 +7,11 @@ div.wheelcontainer {
 	
 	text-align: center;
 	display: inline-block;
-	position: relative;
-
+	position: absolute;
 	width: 615px;
 	height: 603px;
+	left:0;
+	top:0;
 
 	
 
@@ -54,10 +55,10 @@ div.wheelcontainer {
 }
 .wheel:hover {
 	z-index: 8;
-        color: white;
+    color: black;
 
 
-	text-shadow: 0px 0px 4px rgba(0,0,0,1);
+	text-shadow: 0px 0px 4px rgba(125,125,125,0.7);
 }
 
 .wheel span:not(#wheelctext):not( #wheeldtext):not( #wheeletext) {
@@ -152,7 +153,4 @@ div.wheelcontainer {
 }
 .wheel a:active {
 	color: green;
-}
-.wheel a:hover {
-	color: white;
 }
