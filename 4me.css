@@ -67,14 +67,14 @@ body {
 }
 
 #thewheel {
-	display: inline-block;
+	display: block;
 	position: absolute;
 	transform: scale(0.55);
 	padding: 20px;
 	box-sizing: border-box;
 
 
-	float: right;
+
 	margin-left: 60px;
 	margin-top: -80px;
 
