@@ -4,9 +4,11 @@
 	<link rel="stylesheet" href="4me.css" type="text/css" />
 	<link rel="stylesheet" href="wheel.css" type="text/css" />
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+	<script src='http://code.jquery.com/ui/1.10.3/jquery-ui.js'></script>
 	<link  href="http://kate.ict.op.ac.nz/~sheepmia/interation3/css/fotorama.css" rel="stylesheet"> 
 	<script src="http://kate.ict.op.ac.nz/~sheepmia/interation3/js/fotorama.js"></script>
 	<script src="http://kate.ict.op.ac.nz/~sheepmia/interation3/js/script.js"></script>
+	<script src="./js/scripts.js"></script>
 	<!--<script src="./js/facebook_sdk.js"></script>-->
 
 </head>
@@ -32,7 +34,9 @@
 		<div id="header">
 			<div class="logo">
 				<img src="logo.png" id="actuallogo"  />
-				<div class="fotorama" data-autoplay="5000" data-height="320" data-nav="false" data-shadows="true">
+				<div class="faded"></div>
+				<div class="fotorama" data-autoplay="5000" data-height="320" data-nav="false" data-transition="crossfade" data-fit="cover">
+
 					<img src="teen1.jpg"  />
 					<img src="teen2.jpg"  />
 					<img src="teen3.jpg" />
@@ -42,8 +46,9 @@
 		</div>
 		<div id="content">
 				<div id="thewheel">
-					<div class="wheelcontainer">
+					<div class="wheelcontainer" title="Click a category to bring up jobs for that category!">
 						<img src="foreground.png" id="wheelfore" />
+
 						<div class="wheel" id="wheela"><span id="wheelatext"><a href="#social">Social and Community Services</a></span></div>
 						<div class="wheel" id="wheelb"><span id="wheelbtext"><a href="#manutech">Manufacturing and Technology</a></span></div>
 						<div class="wheel" id="wheelc"><span id="wheelctext"><a href="#construct">Construction and Infrastructure</a></span></div>
