@@ -7,11 +7,11 @@ body {
 
 .fotorama {
 
-    width: 600px;
-	height: 320px;
+    width: 600px !important;
+	height: 320px !important;
 
-	float: right;
-	box-sizing: border-box;
+	float: right !important;
+	box-sizing: border-box !important;
 
 }
 
