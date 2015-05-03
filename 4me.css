@@ -196,17 +196,21 @@ body {
 	margin-top: -5px;
 
 }
+big {
+	letter-spacing: 5px;
+}
 #title {
 	display: block;
 	padding: 15px;
 	
-	box-shadow: inset 0px 0px 15px red;
+	box-shadow: inset 0px 0px 5px red;
+	text-shadow: 0px 0px 2px red;
 	text-align: center;
 	margin-bottom: 5px;
 	font-weight: bold;
 	font-family: sans-serif;
 	text-transform: uppercase;
-	color: red;
+	color: black;
 	
 	border-radius: 0.5em;
 	
@@ -215,13 +219,14 @@ body {
 {
 	display: block;
 	padding: 6px;
-	box-shadow: inset 0px 0px 15px red;
+	box-shadow: inset 0px 0px 5px red;
+	text-shadow: 0px 0px 2px red;
 	text-align: center;
 	margin-bottom: 5px;
 	font-weight: bold;
 	font-family: sans-serif;
 	text-transform: uppercase;
-	color: red;
+	color: black;
 	font-size: 14px;
 
 	
