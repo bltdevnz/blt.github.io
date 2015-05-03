@@ -22,7 +22,7 @@ body {
 	z-index: 10;
 	width: 520px;
 	height: 320px;
-	left: 50%;
+	left: 58%;
 
 	background: linear-gradient(to right, rgba(255,255,255,1) 0%,rgba(255,255,255,1) 10%, transparent 30%);
 }
@@ -74,6 +74,7 @@ body {
 	width: 1200px;
 	height: auto;
     min-height: 900px;
+	padding-top: 20px;
 
 	background: white;
 
@@ -84,13 +85,15 @@ body {
 #header {
 	position: relative;
 	text-align: center;
-	width: 100%;
+	width: 1130px;
 	height: 320px;
-	transform: scale(1.1);
+	
+	margin: auto;
+
 	padding-top: 1px;
 	padding-bottom: 1px;
 	background: white;
-	box-shadow: 0px 4px 25px -2px #666666;
+	box-shadow: 0px 0px 15px #dddddd;
 
 }
 #actuallogo {
