@@ -1,5 +1,6 @@
 * {
 	border-collapse: collapse;
+
 }
 
 div.wheelcontainer {
@@ -12,6 +13,13 @@ div.wheelcontainer {
 	height: 603px;
 	left:0;
 	top:0;
+	/* disable selection */
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 
 	
 
@@ -40,7 +48,7 @@ div.wheelcontainer {
 	position: absolute;
 	border-left: 140px solid transparent;
 	border-right: 140px solid transparent;
-	border-radius: 6em;
+	border-radius: 6.5em;
 	height: 0;
 	width: 30px;
 	transform-origin: 50% 0%;
@@ -90,7 +98,7 @@ div.wheelcontainer {
 	transform: rotate(-180deg);
 }
 #wheela {
-	border-bottom: 300px solid rgba(75,0,130,0.7);
+	border-bottom: 300px solid rgba(0,0,255,0.5);
 	transform: rotate(0deg);
 }
 
@@ -101,7 +109,7 @@ div.wheelcontainer {
 	transform: translate(0px,30px) scale(1.1);
 }
 #wheelb {
-	border-bottom: 300px solid rgba(128,0,0,0.7);
+	border-bottom: 300px solid rgba(255,0,0,0.5);
 	transform: rotate(60deg);
 }
 #wheelb:hover {
@@ -109,7 +117,7 @@ div.wheelcontainer {
 	transform: translate(-30px,18px) rotate(60deg)  scale(1.1);
 }
 #wheelc {
-	border-bottom: 300px solid rgba(255,165,0,0.7);
+	border-bottom: 300px solid rgba(255,165,0,0.5);
 	transform: rotate(120deg);
 }
 #wheelc:hover {
@@ -117,7 +125,7 @@ div.wheelcontainer {
 	transform: translate(-30px,-18px) rotate(120deg)  scale(1.1);
 }
 #wheeld {
-	border-bottom: 300px solid rgba(255,255,0,0.7);
+	border-bottom: 300px solid rgba(255,255,0,0.5);
 	transform: rotate(180deg);
 }
 #wheeld:hover {
@@ -125,7 +133,7 @@ div.wheelcontainer {
 	transform: translate(0px,-30px) rotate(180deg)  scale(1.1);
 }
 #wheele {
-	border-bottom: 300px solid rgba(0,128,0,0.7);
+	border-bottom: 300px solid rgba(0,128,0,0.5);
 	transform: rotate(240deg);
 }
 #wheele:hover {
@@ -133,7 +141,7 @@ div.wheelcontainer {
 	transform: translate(30px,-18px) rotate(240deg)  scale(1.1);
 }
 #wheelf {
-	border-bottom: 300px solid rgba(173,216,230,0.7);
+	border-bottom: 300px solid rgba(173,216,230,0.5);
 	transform:  rotate(300deg);
 }
 #wheelf:hover {
@@ -141,7 +149,7 @@ div.wheelcontainer {
 	transform: translate(30px,18px) rotate(300deg)  scale(1.1);
 }
 
-.wheel a {
+/*.wheel a {
 	color: inherit;
 	display: block;
 	width: 100%;
@@ -153,4 +161,4 @@ div.wheelcontainer {
 }
 .wheel a:active {
 	color: green;
-}
+}*/

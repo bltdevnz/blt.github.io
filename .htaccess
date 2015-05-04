@@ -1,0 +1,8 @@
+RewriteEngine On
+RewriteBase /~sheepmia/blt
+RewriteRule ^social.4me ./display.php?p=social
+RewriteRule ^mantech.4me ./display.php?p=mantech
+RewriteRule ^creative.4me ./display.php?p=creative
+RewriteRule ^construct.4me ./display.php?p=construct
+RewriteRule ^primary.4me ./display.php?p=primary
+RewriteRule ^service.4me ./display.php?p=service
