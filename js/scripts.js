@@ -1,30 +1,71 @@
-var xc, yc;
-var focused;
-$('html').dblclick(function() {
-	$('#thewheel').fadeIn("slow");
-	$('#thewheel').css('z-index', 200);
-	$('#thewheel').css('left', xc);
-	$('#thewheel').css('top', yc);
-	$('#thewheel').css('position', 'absolute');
-	
-});
+var easteregg = "";
 
 
-
-
+// JQUERY STUFF ----------------------------------------------------------------------------------------------------------------
 $(document).ready(function(){
-	$(document).mousemove(function(e) {
-		xc = e.pageX - 310;
-		yc = e.pageY - 215;
-	})
-	$('#thewheel').on({
-	mouseleave: function() {
-	focused = setTimeout(function(){
-							$('#thewheel').fadeOut("slow");
-						 }, 1500);
-	},
-	mouseenter: function() {
-		clearTimeout(focused);
-	}
+	$('#theme').on("change", function() { document.changeTheme.submit(); });
+	$('#actuallogo').dblclick(function(){
+		easteregg = "imag";
+	});
+	$('#wheela').on({ mouseenter: function() {
+		easteregg = easteregg + "a";
+	}});
+	$('#wheelb').on({ mouseenter: function() {
+		easteregg = easteregg + "b";
+	}});
+	$('#wheelc').on({ mouseenter: function() {
+		easteregg = easteregg + "c";
+	}});
+	$('#wheeld').on({ mouseenter: function() {
+		easteregg = easteregg + "d";
+	}});
+	$('#wheele').on({ mouseenter: function() {
+		easteregg = easteregg + "e";
+	}});
+	$('#wheelf').on({ mouseenter: function() {
+		easteregg = easteregg + "f";
+	}});
+	setInterval(function() { 
+		if (easteregg.length >= 4) { 
+			if (easteregg == "abde" || easteregg == "bdea") {
+				$('#thewheel').animate({ borderSpacing: -360 }, {
+					step: function (n,f) { $(this).css('transform', 'rotate(' + n + 'deg) scale(0.55)'); },
+					duration: 3000 },
+					'linear'
+				);
+				easteregg = "";
+			}else if (easteregg == "imag") {
+				$('#container').animate({ borderSpacing: -360 }, {
+					step: function (n,f) { $(this).css('transform', 'rotate(' + n + 'deg)'); },
+					duration: 5000 },
+					'linear'
+				);
+				easteregg = "";
+			}else{
+				easteregg = "";
+			}
+		}
+	}, 200);
 });
-});
+
+
+
+// REGULAR STUFF ---------------------------------------------------------------------------------------------------------------
+
+window.onload = function() {
+	document.getElementById('wheela').onclick =  function() { navTo('social'); };
+	document.getElementById('wheelb').onclick =  function() { navTo('mantech'); };
+	document.getElementById('wheelc').onclick =  function() { navTo('construct'); };
+	document.getElementById('wheeld').onclick =  function() { navTo('creative'); };
+	document.getElementById('wheele').onclick =  function() { navTo('primary'); };
+	document.getElementById('wheelf').onclick =  function() { navTo('service'); };
+}
+
+function navTo(p) {
+	window.location = p;
+}
+
+function GetVideo(v,c, p) {
+
+	window.location = p + "-" + v + "," + c;
+}

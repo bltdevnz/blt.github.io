@@ -1,0 +1,164 @@
+* {
+	border-collapse: collapse;
+
+}
+
+div.wheelcontainer {
+	box-sizing: border-box;
+	
+	text-align: center;
+	display: inline-block;
+	position: absolute;
+	width: 615px;
+	height: 603px;
+	left:0;
+	top:0;
+	/* disable selection */
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
+	
+
+}
+#wheelfore {
+	z-index: 99;
+	position: absolute;
+	display: block;
+	margin: 140px 154px;
+	transform: scale(2);
+	pointer-events: none;
+}
+
+
+
+.wheel {
+	transition: all .2s ease-in-out; 
+	font-family: "Verdana";
+	color: black;
+	/*text-shadow: 1px -1px 3px #666666,
+				-1px 1px 3px #666666,
+				1px 1px 3px #666666,
+				-1px -1px 3px #666666;*/
+	font-size: 21px;
+	
+	position: absolute;
+	border-left: 140px solid transparent;
+	border-right: 140px solid transparent;
+	border-radius: 6.5em;
+	height: 0;
+	width: 30px;
+	transform-origin: 50% 0%;
+
+	margin-left: 153px;
+	margin-top: 301px;
+
+	perspective: 1000;
+	backface-visibility: hidden;    
+        border-collapse: collapse;
+	letter-spacing: 2px;
+}
+.wheel:hover {
+	z-index: 8;
+    color: black;
+
+
+	text-shadow: 0px 0px 4px rgba(125,125,125,0.7);
+}
+
+.wheel span:not(#wheelctext):not( #wheeldtext):not( #wheeletext) {
+	position: absolute;
+	top: 200px;
+	left: -60px;
+	margin: auto;
+	text-align: center;
+	width: 160px;
+	height: 100%;
+
+
+}
+.wheel span:not(#wheelatext):not( #wheelbtext):not( #wheelftext) {
+	position: absolute;
+	top: 270px;
+	left: -71px;
+	margin: auto;
+	text-align: center;
+	width: 160px;
+	height: 100%;
+
+
+}
+#wheelctext, #wheeletext {
+	transform: rotate(180deg);
+}
+#wheeldtext {
+	transform: rotate(-180deg);
+}
+#wheela {
+	border-bottom: 300px solid rgba(0,0,255,0.5);
+	transform: rotate(0deg);
+}
+
+
+
+#wheela:hover {
+
+	transform: translate(0px,30px) scale(1.1);
+}
+#wheelb {
+	border-bottom: 300px solid rgba(255,0,0,0.5);
+	transform: rotate(60deg);
+}
+#wheelb:hover {
+
+	transform: translate(-30px,18px) rotate(60deg)  scale(1.1);
+}
+#wheelc {
+	border-bottom: 300px solid rgba(255,165,0,0.5);
+	transform: rotate(120deg);
+}
+#wheelc:hover {
+
+	transform: translate(-30px,-18px) rotate(120deg)  scale(1.1);
+}
+#wheeld {
+	border-bottom: 300px solid rgba(255,255,0,0.5);
+	transform: rotate(180deg);
+}
+#wheeld:hover {
+
+	transform: translate(0px,-30px) rotate(180deg)  scale(1.1);
+}
+#wheele {
+	border-bottom: 300px solid rgba(0,128,0,0.5);
+	transform: rotate(240deg);
+}
+#wheele:hover {
+
+	transform: translate(30px,-18px) rotate(240deg)  scale(1.1);
+}
+#wheelf {
+	border-bottom: 300px solid rgba(173,216,230,0.5);
+	transform:  rotate(300deg);
+}
+#wheelf:hover {
+
+	transform: translate(30px,18px) rotate(300deg)  scale(1.1);
+}
+
+/*.wheel a {
+	color: inherit;
+	display: block;
+	width: 100%;
+	height: 100%;
+	text-decoration: none;
+}
+.wheel a:visited {
+	color: inherit;
+}
+.wheel a:active {
+	color: green;
+}*/

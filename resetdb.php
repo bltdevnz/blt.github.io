@@ -1,13 +1,14 @@
 <?php
 
-	include("db.inc.php");
-	
+	include("./includes/db.inc.php");
+	echo ("<p>Dropping tables...</p>");
 	$ret = mysql_query("DROP TABLE videos");
 	$ret = mysql_query("DROP TABLE categories");
 	$ret = mysql_query("DROP TABLE vid_cat");
 	$ret = mysql_query("DROP TABLE admin");
-
+	echo ("<p>Dropped tables.</p>");
 	
+	echo ("<p>Creating videos table...</p>");
 	$ret = mysql_query("CREATE TABLE videos
 		(
 			videoID			INT	       	NOT NULL AUTO_INCREMENT,
@@ -19,6 +20,7 @@
 			PRIMARY KEY(videoID)
 		)
 	");
+	echo ("<p>Creating video category link...</p>");
 	$ret = mysql_query("CREATE TABLE vid_cat
 		(
 			videoID			INT		NOT NULL,
@@ -26,6 +28,7 @@
 			PRIMARY KEY(videoID, categoryID)
 		)
 	");
+	echo ("<p>Creating categories table...</p>");
 	$ret = mysql_query("CREATE TABLE categories
 		(
 			categoryID		INT	       	NOT NULL AUTO_INCREMENT,
@@ -37,6 +40,7 @@
 			PRIMARY KEY(categoryID)
 		)
 	");
+	echo ("<p>Creating admin table...</p>");
 	$ret = mysql_query("CREATE TABLE admin
 		(
 			adminID			INT	       	NOT NULL AUTO_INCREMENT,
@@ -51,6 +55,7 @@
 			PRIMARY KEY(adminID)
 		)
 	");
+	echo ("<p>Creating catagories...</p>");
 	CreateCategory('Social and Community Services', 'blah', 'blue');
 	CreateCategory('Service Industries', 'services in industry', 'lightblue');
 	CreateCategory('Primary Industries', 'primary industry', 'green');
@@ -58,6 +63,8 @@
 	CreateCategory('Construction and Infrastructure', 'constuct', 'orange');
 	CreateCategory('Manufacturing and Technology', 'manual tech', 'red');
 
-
+	echo ("<p>Adding videos to database...</p>");
 	Seed();
+
+	echo ("<p><big>Setup Complete!</big></p>");
 ?>
