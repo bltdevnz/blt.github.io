@@ -226,7 +226,7 @@ big {
 #title {
 	display: block;
 	padding: 15px;
-	
+	background: #555;
 	box-shadow: inset 0px 0px 5px red;
 	text-shadow: 0px 0px 2px red;
 	text-align: center;
@@ -243,6 +243,7 @@ big {
 {
 	display: block;
 	padding: 6px;
+	background: #555;
 	box-shadow: inset 0px 0px 5px red;
 	text-shadow: 0px 0px 2px red;
 	text-align: center;

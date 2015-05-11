@@ -5,13 +5,15 @@
 		
 		$results = mysql_query("SELECT videoID FROM vid_cat WHERE (categoryID = ".$categoryID.");");
 
-		$q = mysql_query("SELECT categoryName, categoryColor FROM categories WHERE (categoryID = ".$categoryID.");");
+		$q = mysql_query("SELECT categoryName, categoryColor, categoryDesc FROM categories WHERE (categoryID = ".$categoryID.");");
 
 		$f = mysql_fetch_object($q);
 		$title = $f->categoryName;
 		$color = $f->categoryColor;
+		$desc = $f->categoryDesc;
 		echo ("
 			<big id=\"title\" style=\"box-shadow: inset 0px 0px 15px ".$color." !important;\">".$title."</big>
+			<big id=\"subtitle\" style=\"box-shadow: inset 0px 0px 15px ".$color." !important; text-transform: none; text-shadow: none; letter-spacing: 0px !important;\">".$desc."</big>
 		<table>");
 		while($row = mysql_fetch_row($results))
 		{

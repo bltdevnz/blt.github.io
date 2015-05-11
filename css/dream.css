@@ -1,36 +1,35 @@
 body {
 	margin: 0 auto;
 
-	background: linear-gradient(to bottom, white 5%, #aaaaaa 90%);
+	background: white;
+
+	width: 100%;
 
 }
 
 .fotorama {
 
-    width: 600px !important;
-	height: 320px !important;
+	position: relative !important;
+    width: 25% !important;
 
-	float: right !important;
+    float: left;
+    border-radius: 360em !important;
 	box-sizing: border-box !important;
+
 
 }
 
 #faded {
 
-	position: absolute;
-	
-	z-index: 10;
-	width: 520px;
-	height: 320px;
-	left: 45%;
-
-	background: linear-gradient(to right, rgba(255,255,255,1) 0%,rgba(255,255,255,1) 10%, transparent 30%);
+	display: none;
 }
 
-.fotorama__wrap {
+.fotorama__wrap, .fotorama__wrap img {
     position: absolute;
     margin: 0;
     float: right;
+       border-radius: 360em !important;
+
 }
 #loggedIn {
 	display: block !important;
@@ -53,20 +52,22 @@ body {
 	position:  fixed;
 	display: block;
 
-	margin: -20px 0;
-	background: #666;
+	top:0;
+	background: cadetblue;
 	width: 100%;
 	padding: 0px;
+	z-index:900;
+	margin-top: -10px;
 	
 }
 #menu li {
 
-	display: block;
-
 	float: right;
+
 	font-size: 12px;
 
-
+	width: 30%;
+	text-align: center;
 	
 }
 
@@ -89,23 +90,22 @@ body {
 	
 }
 #container {
-	margin: 20px auto;
+
 	position: relative;
-	width: 1200px;
+	width: 100%;
 	height: auto;
     min-height: 900px;
-	padding-top: 20px;
+	margin-top: 50px;
 
 	background: white;
 
 
-	box-shadow: 0px 0px 10px #666666;
 }
 
 #header {
 	position: relative;
 	text-align: center;
-	width: 1130px;
+	width: 100%;
 	height: 320px;
 	
 	margin: auto;
@@ -113,11 +113,11 @@ body {
 	padding-top: 1px;
 	padding-bottom: 1px;
 	background: white;
-	box-shadow: 0px 0px 15px #dddddd;
+
 
 }
 #actuallogo {
-
+	float: right;
 	width: 400px;
 }
 .logo {
@@ -131,25 +131,23 @@ body {
 }
 
 #wheelholder {
-	position: relative;
+	position: absolute;
 	display: inline-block;
-	width: 770px;
+	width: 300px;
 	
-	background: white;
-	box-shadow: 0px 0px 15px #dddddd;
+
 	padding: 0px;
 	box-sizing: border-box;
-	margin-bottom: 15px;
-	margin-top: -5px;
-
+	left: 470px;
+	top: 100px;
 }
 
 #thewheel {
 
 	
 
-	width: 615px;
-	height: 603px;
+	width: 100%;
+
 
 	text-align: center;
 	margin: 0 auto;
@@ -167,69 +165,74 @@ body {
 	display: block;
        height: auto;
 	min-height: 460px;
-	width: 1160px;
-	margin: 20px;
+	width: 100%;
+
 
 	box-sizing: border-box;
-	padding: 15px;
+	
 
 
 
 
 }
 #vids {
-	float: right;
-    display: inline-block;
-	width: 320px;
 	box-sizing: border-box;
-    margin-top: -5px;
+    display: block;
+	width: 100%;
 
-
+    margin-top: 20px;
+height: 224px !important;
+	margin-bottom: 20px;
 }
-.vidbox.first:before {
-	font-size: 20px;
-	content: "Trending";
 
-	box-shadow: 0px 0px 15px #dddddd;
-	padding: 5px;
-
-}
 .vidbox {
-	display: inline-block;
+	display: block;
 
 	font-size: 12px;
 	padding-bottom: 15px;
+	float: left;
+	margin-right: 1%;
+	margin-left: 1%;
+	
+	overflow-y: hidden;
+}
+.vidbox iframe {
+
+	height: 224px !important;
+}
+iframe {
+	display: block;
+
 }
 .feed {
-	display: inline-block;
+	display: block;
 
 	font-size: 12px;
 	margin-bottom: 15px;
 	width: 320px;
-	box-shadow: 0px 0px 15px #dddddd;
-
+	float: right;
+	padding-right: 30px;
 
 }
-.sponsor:before {
-	font-size: 20px;
-	content: "Sponsors";
 
-	box-shadow: 0px 0px 15px #dddddd;
-	padding: 5px;
-}
 
 #content p {
 	position: relative;
 	display: inline-block;
-	width: 770px;
+	width: 100%;
 	
 	background: white;
-	box-shadow: 0px 0px 15px #dddddd;
+
 	padding: 35px;
 	box-sizing: border-box;
 
 	margin-top: -5px;
 
+}
+#content p:nth-of-type(2n)
+{
+
+	background: lightblue;
 }
 big {
 	letter-spacing: 5px;
@@ -238,35 +241,34 @@ big {
 	display: block;
 	padding: 15px;
 	
-	box-shadow: inset 0px 0px 5px red;
-	text-shadow: 0px 0px 2px red;
+	box-shadow: inset 0px 0px 50px cadetblue;
+
 	text-align: center;
 	margin-bottom: 5px;
 	font-weight: bold;
 	font-family: sans-serif;
-	text-transform: uppercase;
+	text-transform: lowercase;
 	color: black;
 	
-	border-radius: 0.5em;
+
 	
 }
 #subtitle
 {
 	display: block;
 	padding: 6px;
-	box-shadow: inset 0px 0px 5px red;
-	text-shadow: 0px 0px 2px red;
+	box-shadow: inset 0px 0px 50px cadetblue;
+	
 	text-align: center;
 	margin-bottom: 5px;
 	font-weight: bold;
 	font-family: sans-serif;
-	text-transform: uppercase;
+	text-transform: lowercase;
 	color: black;
 	font-size: 14px;
 
 	
-	border-radius: 0.5em;
-	
+
 	
 }
 #details {
@@ -296,3 +298,36 @@ big {
 	clear: both;
 }
 
+
+@media screen and (max-width: 1330px)
+{
+
+	.fotorama {
+
+		display: none !important;
+	}
+
+	.vidbox, iframe {
+		height: auto !important;
+		width: 100% !important;
+	}
+	#wheelholder {
+
+		top: 50px;
+		left: 0px;
+	}
+	.feed { display: none;}
+}
+
+@media screen and (max-width: 835px )
+{
+	#wheelholder {
+
+		display: none;
+	}
+	#actuallogo {
+
+		float: none;
+	}
+
+}

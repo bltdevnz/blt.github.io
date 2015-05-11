@@ -1,12 +1,17 @@
 RewriteEngine On
-RewriteBase /~sheepmia/blt
+
 RewriteRule ^social$ ./display.php?p=social
 RewriteRule ^mantech$ ./display.php?p=mantech
 RewriteRule ^creative$ ./display.php?p=creative
 RewriteRule ^construct$ ./display.php?p=construct
 RewriteRule ^primary$ ./display.php?p=primary
 RewriteRule ^service$ ./display.php?p=service
-RewriteRule ^changetheme$ ./changetheme.php
+RewriteRule ^change-theme$ ./changetheme.php
+RewriteRule ^posts$ ./post.php
+RewriteRule ^resetpassword$ ./resetpw.php
+RewriteRule ^changepassword$ ./changepw.php
+RewriteRule ^reset-([0-9]+)-([A-Za-z0-9]+) ./resetpw.php?uid=$1&hash=$2
+RewriteRule ^log-out$ ./logout.php
 RewriteRule ^social-([0-9]+),([0-9]+)$	./watch.php?vid=$1&p=social&c=$2
 RewriteRule ^mantech-([0-9]+),([0-9]+)$	./watch.php?vid=$1&p=mantech&c=$2
 RewriteRule ^creative-([0-9]+),([0-9]+)$	./watch.php?vid=$1&p=creative&c=$2

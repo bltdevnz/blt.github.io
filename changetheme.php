@@ -1,4 +1,5 @@
 <?php
+	include("./includes/login.inc.php"); // include login for later ( and to be able to use session  )
 	include("./includes/theme.inc.php");
 
 	if (isset($_POST['theme'])) {
@@ -11,8 +12,7 @@
 		}else{
 			header("location: ".$last."");
 		}
+	}else{
+		header("location: ./");
 	}
-
-	
-
 ?>

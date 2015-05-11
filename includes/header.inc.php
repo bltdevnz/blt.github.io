@@ -1,5 +1,6 @@
 <?php
-	include("db.inc.php");
+
+	include("login.inc.php");
 	include("theme.inc.php");
 
 ?>
@@ -7,9 +8,11 @@
 <head>
 	<title>4 Me - Test Site</title>
 	<?php GetTheme(); ?>
+	<link  href="./css/all.css" rel="stylesheet"> 
 	<link rel="stylesheet" href="./css/wheel.css" type="text/css" />
-	<script src="./js/jquery.min.js"></script>
 	<link  href="./css/fotorama.css" rel="stylesheet"> 
+	<script src="./js/jquery.min.js"></script>
+	
 	<script src="./js/fotorama.js"></script>
 	<script src="./js/scripts.js"></script>
 <!--[if IE]>
@@ -31,8 +34,7 @@
 	</script>
 
 	<ul id="menu">
-		<li>Contact</li>
-		<li>Login</li>
+		<?php LoggedIn(); ?>
 	</ul>
 
 	<div id="container">

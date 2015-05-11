@@ -1,8 +1,12 @@
 <?php
-session_start();
 
-
-$themes = array("Light Theme" => "4me", "Dark Theme" => "dark", "Fun Theme" => "fun");
+$themes = array(
+	"Light" => "4me",
+	"Dark" => "dark",
+	"Dream" => "dream",
+	"Alien" => "fun"
+	
+	);
 // Theme Name => CSS File
 
 $theme = isset($_SESSION['theme']) ? $_SESSION['theme'] : "4me";
@@ -15,7 +19,7 @@ function GetTheme() {
 function Themes() {
 	global $themes, $theme, $pageName;
 	echo ("
-			<form action=\"changetheme.php\" method=\"post\" name=\"changeTheme\">
+			<form action=\"change-theme\" method=\"post\" name=\"changeTheme\">
 				<input type=\"hidden\" name=\"lastPage\" value=\"".$pageName."\" />
 				<select name=\"theme\" id=\"theme\">
 	");
