@@ -1,0 +1,363 @@
+AWSTATS DATA FILE 6.95 (build 1.943)
+# If you remove this file, all statistics for date 201508 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.malcam4me.kiwi.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1960                
+POS_TIME 2652                
+POS_VISITOR 7140                
+POS_DAY 9847                
+POS_DOMAIN 3342                
+POS_LOGIN 3684                
+POS_ROBOT 3839                
+POS_WORMS 4166                
+POS_EMAILSENDER 4297                
+POS_EMAILRECEIVER 4440                
+POS_SESSION 10153               
+POS_SIDER 10359               
+POS_FILETYPES 4575                
+POS_OS 4743                
+POS_BROWSER 4887                
+POS_SCREENSIZE 5423                
+POS_UNKNOWNREFERER 5497                
+POS_UNKNOWNREFERERBROWSER 5641                
+POS_ORIGIN 5799                
+POS_SEREFERRALS 5940                
+POS_PAGEREFS 6095                
+POS_SEARCHWORDS 6334                
+POS_KEYWORDS 6486                
+POS_MISC 2315                
+POS_ERRORS 6545                
+POS_CLUSTER 3540                
+POS_SIDER_404 6678                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150901005225 11826 2379371 8838623708378
+FirstTime 20150801160222
+LastTime 20150831234310
+LastUpdate 20150902000658 11826 0 0 412 11413
+TotalVisits 67                  
+TotalUnique 45                  
+MonthHostsKnown 39                  
+MonthHostsUnknown 8                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 52 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 5 38 7645 1 1 182
+2 1 1 951 0 0 0
+3 1 19 336070 0 1 1150
+4 5 24 355677 0 1 1150
+5 0 0 0 0 0 0
+6 3 22 163462 0 0 0
+7 2 38 2654 0 0 0
+8 73 709 698592 2 5 2694
+9 24 144 1591248 2 9 9554
+10 23 97 888016 3 33 223595
+11 33 294 1958823 7 68 448006
+12 229 1445 2468215 1 7 3627
+13 282 2300 3210038 2 16 54609
+14 216 1038 2093038 4 42 564499
+15 30 178 1396547 1 8 4404
+16 165 1059 2102339 34 37 17387
+17 23 95 708181 1 4 4777
+18 6 40 9009 1 1 182
+19 1 4 155603 1 2 2482
+20 24 117 361887 0 4 2300
+21 0 0 0 0 0 0
+22 3 22 351211 0 1 48585
+23 2 12 36838 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+ip 934 6493 10189653
+nz 174 977 5514684
+com 29 156 2146411
+link 4 4 3804
+net 4 23 351933
+au 3 22 351211
+de 2 20 337021
+eg 1 1 1327
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+facebook 42 760175 20150831195220 0
+favicon 10 12894 20150831110038 0
+discovery 3 8070 20150824113102 0
+surveybot 1 951 20150824160709 0
+libwww 1 3744 20150827164108 0
+robot 1 0 20150828130757 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 771 201052 0 0
+php 524 859828 0 0
+png 3590 13739268 0 0
+html 627 823901 0 0
+js 1455 2002625 0 0
+jpg 729 1269370 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 9
+linuxandroid 81
+winnt 100
+linux 32
+winvista 44
+macosx 1648
+winunknown 1
+win2003 3
+Unknown 3
+win2008 5784
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 29
+safari7.0 64
+firefox40.0 59
+chrome34.0.1847.137 19
+android 58
+chrome28.0.1500.94 1
+chrome40.0.2214.111 5060
+chrome38.0.2125.101 14
+chrome39.0.2171.95 2
+chrome44.0.2403.155 66
+firefox38.0 41
+firefox34.0 24
+firefox30.0 1
+safari5.0.2 20
+firefox31.0 1
+iphone 319
+mozilla 39
+netscape5.0 1
+chrome44.0.2403.157 410
+firefox14.0.1 1
+chrome42.0.2311.135 10
+msie7.0 39
+chrome27.0.1453 17
+safari8.0 1182
+chrome43.0.2357.134 73
+chrome44.0.2403.133 22
+Unknown 2
+firefox35.0 126
+safari 23
+netscape 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla 20150824015723
+WWW-Mechanize/1.73 20150827164108
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Microsoft_Office_Word_2013 20150828114643
+WWW-Mechanize/1.73 20150827164108
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 607 609
+From1 0 0
+From2 1 1
+From3 29 29
+From4 514 7057
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+http://m.facebook.com 16 16
+https://www.facebook.com 11 11
+http://l.facebook.com/l.php 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+401 1 290
+206 76 539260
+500 27 9315
+301 6 1177
+404 8 1557
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 4
+/apple-touch-icon-76x76-precomposed.png 1 -
+/robots.txt 4 http://www.malcam4me.kiwi/robots.txt
+/apple-touch-icon.png 2 -
+/apple-touch-icon-76x76.png 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 47
+202.49.0.2 919 6345 8070960 20150831142315
+118-92-64-157.dsl.dyn.ihug.co.nz 53 243 404666 20150826072918
+118-92-227-247.dsl.dyn.ihug.co.nz 20 39 365743 20150831171206
+81.75.224.49.dyn.cust.vf.net.nz 18 154 33942 20150825185236
+203-100-215-18-dynamic.callplus.net.nz 14 63 520881 20150827100311
+222-154-224-235.adsl.xtra.co.nz 14 33 365763 20150825105141
+egress120.cws.sco.cisco.com 13 51 709700 20150828134934
+125-239-52-123.jetstream.xtra.co.nz 7 44 355973 20150826144524
+122-62-133-244.jetstream.xtra.co.nz 7 26 357228 20150826114937
+202.36.155.1 6 70 1014608 20150824113104
+nat-vlan550.las1.sco.cisco.com 1 1 3744 20150828043746
+156.219.224.49.dyn.cust.vf.net.nz 3 22 163462 20150825063022
+121-99-86-224.bng1.tvc.orcon.net.nz 4 23 352863 20150829100502
+69.58.178.56 1 1 2690 20150802163117
+cpe-124-191-69-254.szbn2.lon.bigpond.net.au 3 22 351211 20150831221352
+170.104.124.202.static.snap.net.nz 3 22 351876 20150827143834
+122-60-128-44.jetstream.xtra.co.nz 1 1 1327 20150827164108
+egress106.cws.sco.cisco.com 4 23 350895 20150828114653
+egress105.cws.sco.cisco.com 1 19 336018 20150825154842
+host-197.198.182.94.etisalat.com.eg 1 1 1327 20150829123131
+22-229-105-97.north.dsl.telkomsa.net 4 23 351933 20150826040212
+egress104.cws.sco.cisco.com 4 21 204428 20150824111637
+41.66.224.49.dyn.cust.vf.net.nz 1 19 5974 20150827095435
+egress109.cws.sco.cisco.com 5 24 353466 20150828095253
+122-62-162-76.jetstream.xtra.co.nz 1 18 951 20150802114113
+118-92-80-79.dsl.dyn.ihug.co.nz 1 1 1332 20150831172836
+208.91.115.10 1 7 35506 20150826150145
+106.73.224.49.dyn.cust.vf.net.nz 3 22 351716 20150825155040
+210.48.175.35 4 41 687895 20150825130030
+122-61-107-146.jetstream.xtra.co.nz 1 19 336070 20150829171132
+64.79.100.16.webcrawler.link 4 4 3804 20150824015723
+static.137.41.40.188.clients.your-server.de 1 1 951 20150802025518
+google-proxy-66-249-82-180.google.com 0 9 118634 
+125-239-53-97.jetstream.xtra.co.nz 1 4 155603 20150826195201
+204.101.161.159 1 7 35511 20150831234310
+121-75-11-4.dyn.vf.net.nz 1 19 1327 20150826071709
+122.204.224.49.dyn.cust.vf.net.nz 2 21 8461 20150826135549
+222-154-229-78.adsl.xtra.co.nz 5 30 165603 20150828141852
+38.100.21.171 1 3 6413 20150801160222
+google-proxy-66-249-82-176.google.com 1 4 4415 20150824132948
+119-224-53-231.callplus.net.nz 3 20 221940 20150831082201
+host-203-94-41-247.xdsl.kinect.net.nz 4 40 11734 20150829173105
+google-proxy-66-249-82-184.google.com 0 4 65111 
+p4fc5b5c8.dip0.t-ipconnect.de 1 19 336070 20150830032746
+183.231.224.49.dyn.cust.vf.net.nz 6 75 644179 20150831152056
+122.56.210.231 1 19 336070 20150830175732
+125-236-202-131.adsl.xtra.co.nz 1 19 336070 20150831091403
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 10
+20150801 1 3 6413 1
+20150802 5 22 6494 4
+20150824 344 2045 4926907 10
+20150825 79 421 2338962 15
+20150826 234 1235 3664986 12
+20150827 9 69 518690 4
+20150828 24 118 1578035 6
+20150829 7 62 696234 4
+20150830 2 38 672140 2
+20150831 446 3683 4487183 9
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 4
+5mn-15mn 7
+2mn-5mn 6
+30s-2mn 7
+15mn-30mn 3
+0s-30s 36
+30mn-1h 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 12
+/admin-update/ 323 428994 2 2
+/display.php 310 567721 0 16
+/ 249 324066 62 33
+/update/display.php 68 145233 0 1
+/watch.php 59 11915 0 14
+/update/ 55 70841 3 1
+/admin-update/display.php 55 129109 0 0
+/update/watch.php 13 2636 0 0
+/admin-update/watch.php 7 1450 0 0
+/resetdb.php 7 1029 0 0
+/admin-update/resetdb.php 4 588 0 0
+/update/resetdb.php 1 147 0 0
+END_SIDER

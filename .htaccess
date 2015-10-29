@@ -1,15 +1,20 @@
 RewriteEngine On
-RewriteBase /~sheepmia/blt
-RewriteRule ^social$ ./display.php?p=social
-RewriteRule ^mantech$ ./display.php?p=mantech
-RewriteRule ^creative$ ./display.php?p=creative
-RewriteRule ^construct$ ./display.php?p=construct
-RewriteRule ^primary$ ./display.php?p=primary
-RewriteRule ^service$ ./display.php?p=service
-RewriteRule ^changetheme$ ./changetheme.php
-RewriteRule ^social-([0-9]+),([0-9]+)$	./watch.php?vid=$1&p=social&c=$2
-RewriteRule ^mantech-([0-9]+),([0-9]+)$	./watch.php?vid=$1&p=mantech&c=$2
-RewriteRule ^creative-([0-9]+),([0-9]+)$	./watch.php?vid=$1&p=creative&c=$2
-RewriteRule ^construct-([0-9]+),([0-9]+)$	./watch.php?vid=$1&p=construct&c=$2
-RewriteRule ^primary-([0-9]+),([0-9]+)$	./watch.php?vid=$1&p=primary&c=$2
-RewriteRule ^service-([0-9]+),([0-9]+)$	./watch.php?vid=$1&p=service&c=$2
+
+RewriteRule ^feedback$ ./feedback.php
+RewriteRule ^resetpassword$ ./resetpw.php
+RewriteRule ^changepassword$ ./changepw.php
+RewriteRule ^reset-([0-9]+)-([A-Za-z0-9]+) ./resetpw.php?uid=$1&hash=$2
+RewriteRule ^logout$ ./logout.php
+RewriteRule ^admin$ ./admin.php
+RewriteRule ^resetdb$ ./resetdb.php
+RewriteRule ^import$ ./import.php
+RewriteRule ^export$ ./export.php
+RewriteRule ^login$ ./login.php
+RewriteRule ^theme$ ./theme.php
+RewriteRule ^display$ ./display.php
+RewriteRule ^update$ ./update.php
+RewriteRule ^import$ ./import.php
+RewriteRule ^watch$ ./watch.php
+RewriteRule ^add$ ./add.php
+RewriteRule ^delete$ ./delete.php
+RewriteRule ^thumb$ ./thumb.php

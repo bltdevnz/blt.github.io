@@ -1,0 +1,296 @@
+* Categories *,* Colour *,* ID *
+SADD,#8D4D6D,-1
+Otago Polytechnic,#005A8C,0
+Social and Community Services,#4e6e9f,1
+Service Industries,#4d9d91,2
+Primary Industries,#599d4d,3
+Creative Industries,#959d4d,4
+Construction and Infrastructure,#E26605,5
+Manufacturing and Technology,#9d4d59,6
+,,
+* Videos *,* Video DIRECT Link *,* ID *
+Aeronautical Engineering,https://www.youtube.com/embed/yMNGKMUzKfw&list=PLLPZVmpSEVzwx2g38iob_UDFG8BKLVWFY,"1,6"
+Agricultural Scientist ,https://www.youtube.com/embed/0seKBvgXQps&list=PLBBD27DE60692B177&index=7,"1,3,6"
+Aircraft Engineering,https://www.youtube.com/embed/OUBFEcCULoE&index=8&list=PLLPZVmpSEVzwx2g38iob_UDFG8BKLVWFY,"1,6"
+Airport Customer Services,https://www.youtube.com/embed/pW4JyOIQFro&list=PLLPZVmpSEVzyCXuNJWgaav5IN2-cakLbD&index=5,1
+Amenity Horticulture,https://www.youtube.com/embed/gKToW66aGK0,"3,5"
+Anaesthetic Technician,https://www.youtube.com/embed/-JnMRrVdsJw,1
+Apprentice Electrician ,https://www.youtube.com/embed/egZU2LmciF4,"5,6"
+Aquaculture,https://www.youtube.com/embed/EdW8AvxJuwU,3
+Aquaculture - Mussel Farming ,https://www.youtube.com/embed/PZ2bVkoIpI4,3
+Arboriculture,https://www.youtube.com/embed/-BkjZ23Cem8,3
+Army Officer,https://www.youtube.com/embed/_D8fUtg8nIc,"1,2"
+Auckland Council,https://www.youtube.com/embed/p58CSGnItZE,"1,2,3"
+Automotive Collision Repair,https://www.youtube.com/embed/mkOoWobx4aA&index=10&list=PLLPZVmpSEVzw_l02-YQRiSwiutXFOQrca,6
+Automotive Electrical Engineering ,https://www.youtube.com/embed/h7kAwmkwaD4&list=PLLPZVmpSEVzwx2g38iob_UDFG8BKLVWFY&index=9&spfreload=1,6
+Automotive Engineering,https://www.youtube.com/embed/4O5Hbwnrvmg&index=3&list=PLLPZVmpSEVzwx2g38iob_UDFG8BKLVWFY,6
+Automotive Heavy Engineering,https://www.youtube.com/embed/LxMFzYqJ2EQ,6
+Automotive Heavy Engineering,https://www.youtube.com/embed/4YR-t-Ao4cs,6
+Automotive Heavy Engineering - Agricultural Equipment,https://www.youtube.com/embed/4FtROM9PF80&index=3&list=PLLPZVmpSEVzz7jXkheuUflts3aDI49nSf,6
+Automotive Refinisher,https://www.youtube.com/embed/6a0tR_NnMag&list=PLLPZVmpSEVzw_l02-YQRiSwiutXFOQrca&index=4,6
+Automotive Services Advisor,https://www.youtube.com/embed/p62dsMKhBnQ,6
+Automotive Technician,https://www.youtube.com/embed/UFSIly07g8o&index=17&list=PLLPZVmpSEVzw_l02-YQRiSwiutXFOQrca,6
+Automotive Workshop Supervisor,https://www.youtube.com/embed/uPoi1lJmHho,6
+Baking,https://www.youtube.com/embed/lHOM-0E4oNo&list=PLLPZVmpSEVzyCXuNJWgaav5IN2-cakLbD&index=11,"2,4,6"
+Banking - Customer Services Consultant ANZ,https://www.youtube.com/embed/jtNsN8PK96M&list=PLLPZVmpSEVzyCXuNJWgaav5IN2-cakLbD&index=24,2
+Banking - Customer Services Officer ANZ,https://www.youtube.com/embed/b7Jf1E_MZZo&index=22&list=PLLPZVmpSEVzyCXuNJWgaav5IN2-cakLbD,2
+Banking - Lending Services Officer ANZ ,https://www.youtube.com/embed/sltL5YjuUIk&list=PLLPZVmpSEVzyCXuNJWgaav5IN2-cakLbD&index=23,2
+Brewer,https://www.youtube.com/embed/lacLug5XhJw,"2,6"
+Building and Carpentry,https://www.youtube.com/embed/dXanRR2Md8k&list=PLLPZVmpSEVzx3xYkTLTMokawHE6x-6tBC&index=13,5
+Building and Carpentry,https://www.youtube.com/embed/Zr21deEMszs&list=PLLPZVmpSEVzyn3c2uKNED9ePovcVyvTF0,5
+Bus Driving,https://www.youtube.com/embed/a9Jh2vEfPPs&list=PLLPZVmpSEVzw_l02-YQRiSwiutXFOQrca&index=15,2
+Canvas Fabrication Technician,https://www.youtube.com/embed/fqwMOvro3KQ,"5,6"
+Career Firefighter ,https://www.youtube.com/embed/dEYWQcUgUc8,1
+Carls Jr,https://www.youtube.com/embed/VrXJMLRd1IQ,2
+Carpenter,https://www.youtube.com/embed/qtFR9VwAdls&index=4&list=PLBBD27DE60692B177,"4,5"
+Carpentry,https://www.youtube.com/embed/nc_32xhkxTI&list=PLLPZVmpSEVzyn3c2uKNED9ePovcVyvTF0&index=10&spfreload=1,"4,5"
+Carpentry CHCH,https://www.youtube.com/embed/0kvuFQn39io&index=4&list=PLLPZVmpSEVzx3xYkTLTMokawHE6x-6tBC,"4,5"
+Carpet and Vinyl Installation,https://www.youtube.com/embed/qEuFwTwQ0Qs&index=2&list=PLLPZVmpSEVzyn3c2uKNED9ePovcVyvTF0,5
+Civil Construction,https://www.youtube.com/embed/AarBa5TomkY&index=4&list=PLLPZVmpSEVzwx2g38iob_UDFG8BKLVWFY,"5,6"
+Civil Engineer ,https://www.youtube.com/embed/VpeeaClpXnM&index=15&list=PLBBD27DE60692B177,"5,6"
+Civil Engineering,https://www.youtube.com/embed/GcLX8Dv2KyQ&list=PLLPZVmpSEVzwx2g38iob_UDFG8BKLVWFY&index=5,"5,6"
+Civil Engineering Technician,https://www.youtube.com/embed/HtVxO18jLnc&index=18&list=PLLPZVmpSEVzwx2g38iob_UDFG8BKLVWFY,"5,6"
+Civil Laboratory Technician,https://www.youtube.com/embed/2R3rQHDGjzM&list=PLLPZVmpSEVzwx2g38iob_UDFG8BKLVWFY&index=17,"5,6"
+Coca Cola - Graduate Opportunites ,https://www.youtube.com/embed/2HDAvCgJ5tE,2
+Coca Cola Amatil - Key Account Manager ,https://www.youtube.com/embed/KDVC_NfKnUk,2
+Commercial Construction,https://www.youtube.com/embed/phDFeeVSy9g&index=7&list=PLLPZVmpSEVzyn3c2uKNED9ePovcVyvTF0,5
+Commercial Flooring,https://www.youtube.com/embed/5dhvM7Qlm8E,"5,6"
+Community Care and Support,https://www.youtube.com/embed/8FwlWpsmTu0,1
+Community Health Worker,https://www.youtube.com/embed/0qdkSeVeSSQ&list=PLLPZVmpSEVzzdYQIcGLDy8iZx0NI6tbIE&index=12,1
+Community Healthcare,https://www.youtube.com/embed/FGbshtLPd5k&list=PLLPZVmpSEVzzdYQIcGLDy8iZx0NI6tbIE&index=4,1
+Concrete and Cement,https://www.youtube.com/embed/jj18vyL1QgM&list=PLLPZVmpSEVzyn3c2uKNED9ePovcVyvTF0&index=8,5
+Concrete Construction,https://www.youtube.com/embed/SpkMGaL1iXE&list=PLLPZVmpSEVzx3xYkTLTMokawHE6x-6tBC&index=3,5
+Concrete Construction,https://www.youtube.com/embed/Pc3G7aqRfsI,5
+Corrections Case Manager,https://www.youtube.com/embed/Ticp55HIPw0,1
+Corrections Inmate Employment Instructor,https://www.youtube.com/embed/fTKVPJLgFLQ,1
+Corrections Officer,https://www.youtube.com/embed/W2LwmYl8rJQ,1
+Corrections Probation Officer and Community Work Supervisor,https://www.youtube.com/embed/rp_aiS7EYOA,1
+Corrections Psychologist and Programme Facilitator,https://www.youtube.com/embed/ksJjz6crBp4,1
+Crane Operation,https://www.youtube.com/embed/TYB7UmbLR14&index=11&list=PLLPZVmpSEVzwf6kgA4UFsdglBi3fSx0H_,"5,6"
+Crane Operator ,https://www.youtube.com/embed/aHTVWoKE2bw&list=PLBBD27DE60692B177&index=22,"5,6"
+Customs,https://www.youtube.com/embed/lWJiRhEB8K0&list=PLLPZVmpSEVzwf6kgA4UFsdglBi3fSx0H_&index=5,"1,2"
+Dairy Farmer ,https://www.youtube.com/embed/Xnx4GZbaz3E&index=8&list=PLBBD27DE60692B177,3
+Dairy Farming,https://www.youtube.com/embed/N26T7Iai1GA,3
+Deep Sea Fishing - Deckhand ,https://www.youtube.com/embed/6_A_o8YNy9E,"2,3"
+Deep Sea Fishing - Engineering,https://www.youtube.com/embed/JaloE59sldc,"3,6"
+Deep Sea Fishing - Processing ,https://www.youtube.com/embed/4b3AQ44P5Hk,"3,6"
+Dental Hygenist,https://www.youtube.com/embed/Kc5aIRnKrpc&list=PLBBD27DE60692B177,1
+Dentistry and Oral Health,https://www.youtube.com/embed/dccB3YnJQu8,1
+Dentistry and Oral Health Hygiene and Therapy,https://www.youtube.com/embed/o6Q72lyxluI,1
+DOC Ranger,https://www.youtube.com/embed/6I9YcveLWWE&index=4&list=PLLPZVmpSEVzwf6kgA4UFsdglBi3fSx0H_,"1,3"
+Drainlaying,https://www.youtube.com/embed/gbTz3QZQQwQ&index=2&list=PLLPZVmpSEVzwf6kgA4UFsdglBi3fSx0H_,5
+Drilling,https://www.youtube.com/embed/0R81mDJGqt4,5
+Early Childhood Teacher (Kaiako) Te Puna Reo ,https://www.youtube.com/embed/fo7WHHjv0MM,1
+Early Childhood Teaching,https://www.youtube.com/embed/NvAMYppiG-k,1
+Eco Tourism,https://www.youtube.com/embed/mIFcOIOr42s,2
+Educational Psychologist Teacher,https://www.youtube.com/embed/MvyjQAnE6bQ,1
+Electrical Engineering,https://www.youtube.com/embed/bExHT5hZwHE&index=7&list=PLLPZVmpSEVzwf6kgA4UFsdglBi3fSx0H_,"5,6"
+Electrician,https://www.youtube.com/embed/7w7TxLHB1sI&index=12&list=PLBBD27DE60692B177,"5,6"
+Emergency Response,https://www.youtube.com/embed/4Tp3U2Evd1I&index=8&list=PLLPZVmpSEVzzdYQIcGLDy8iZx0NI6tbIE,1
+Equine Industry,https://www.youtube.com/embed/HTk4_RzS_hA,3
+Fashion,https://www.youtube.com/embed/22GhYTsKJk8,2
+Fire Investigator,https://www.youtube.com/embed/bwuxi_aW39A&index=11&list=PLLPZVmpSEVzxhhwQ0z7A5DB74NDAjPPdI,1
+Fire Protection,https://www.youtube.com/embed/E5uugUu6LCg&index=4&list=PLLPZVmpSEVzxhhwQ0z7A5DB74NDAjPPdI,1
+Fire Risk Management,https://www.youtube.com/embed/vgE0-WNDyMo&index=10&list=PLLPZVmpSEVzxhhwQ0z7A5DB74NDAjPPdI,1
+Firefighting with the NZ Fire Service,https://www.youtube.com/embed/qUh0jcGqZlM,1
+Fitness Instructor ,https://www.youtube.com/embed/rFDgh9dqfAg&list=PLBBD27DE60692B177&index=16,2
+Floor and Wall Tiling,https://www.youtube.com/embed/hjfhAYuh6X8&list=PLLPZVmpSEVzx3xYkTLTMokawHE6x-6tBC&index=7,"4,5,6"
+Floor and Wall Tiling,https://www.youtube.com/embed/hjfhAYuh6X8,"4,5,6"
+Flooring - Resin Flooring Applicator ,https://www.youtube.com/embed/UiGx0yDSLu0&index=13&list=PLLPZVmpSEVzyn3c2uKNED9ePovcVyvTF0,"5,6"
+Floristry,https://www.youtube.com/embed/hAK_dkQcjOk,"2,4"
+Food Technologist in the Seafood Industry,https://www.youtube.com/embed/Y0Um5zaTSVE&list=PLLPZVmpSEVzz7jXkheuUflts3aDI49nSf,"3,6"
+Food Technologist in the Seafood Industry ,https://www.youtube.com/embed/Y0Um5zaTSVE&index=1&list=PLLPZVmpSEVzz7jXkheuUflts3aDI49nSf,"3,6"
+Forestry,https://www.youtube.com/embed/lTaU9ZE45vg,3
+Forestry Truck Driver ,https://www.youtube.com/embed/9Teew6OTV6E,2
+Frame and Truss Manufacturing ,https://www.youtube.com/embed/WZVjPgGn2ns&index=5&list=PLLPZVmpSEVzx3xYkTLTMokawHE6x-6tBC,"5,6"
+Frames and Truss Fabrication,https://www.youtube.com/embed/3ezdX4-eqs8&index=11&list=PLLPZVmpSEVzyn3c2uKNED9ePovcVyvTF0,"5,6"
+Freight Forward - Export,https://www.youtube.com/embed/_3Hz_2tOw8M,2
+Freight Forwarder ,https://www.youtube.com/embed/VAIhY8fArvk,2
+Freight Forwarding - Import,https://www.youtube.com/embed/3uUeHeoM_gE,2
+Fruit Production,https://www.youtube.com/embed/bpYHwJs3-4Y,3
+Furniture Manufacturing,https://www.youtube.com/embed/NCVh9Dv9PRM&index=9&list=PLLPZVmpSEVzyn3c2uKNED9ePovcVyvTF0,"4,6"
+Furniture Manufacturing,https://www.youtube.com/embed/utHqEjyiCEI,"4,6"
+Gardener,https://www.youtube.com/embed/PhL00P2kZkM,"2,3"
+Gas Technician,https://www.youtube.com/embed/hMdMj9wCmlo,5
+General Practitioner and Medical Lab Scientist,https://www.youtube.com/embed/Vg6E4k1KbKE,1
+Glass Making Industry,https://www.youtube.com/embed/rh1__rssMU4,"5,6"
+Gold Mining,https://www.youtube.com/embed/ksXHnxyjUiw,"3,5,6"
+Golf Course Management ,https://www.youtube.com/embed/qvotefPGpUc,"2,3"
+Hairdresser/Barber,https://www.youtube.com/embed/KoPueruP_X0,"2,4"
+Hairdressing,https://www.youtube.com/embed/6SDSDk1PAgk&list=PLLPZVmpSEVzyCXuNJWgaav5IN2-cakLbD&index=4,"2,4"
+Hairdressing,https://www.youtube.com/embed/8Q09RtXCCeI&list=PLLPZVmpSEVzyCXuNJWgaav5IN2-cakLbD&index=10,"2,4"
+Health Protection Officer,https://www.youtube.com/embed/VzK59mUGMxE&list=PLLPZVmpSEVzzdYQIcGLDy8iZx0NI6tbIE&index=11,1
+Health Protection Officer,https://www.youtube.com/embed/VzK59mUGMxE&index=7&list=PLXFMSG5ysUe9ts1hOuoK10CaHRGclM5Wo,1
+Health Protection Officer and a Public Health Nurse,https://www.youtube.com/embed/CU3WAvW_CW0,1
+"Heating, Ventilation and Air Conditioning",https://www.youtube.com/embed/_Er_J28Kj4w&list=PLLPZVmpSEVzwx2g38iob_UDFG8BKLVWFY&index=16,"5,6"
+"Heating, Ventilation and Air Conditioning ",https://www.youtube.com/embed/h6t5f7wKUWI&list=PLBBD27DE60692B177&index=23,"5,6"
+Hire Industry,https://www.youtube.com/embed/-k_nFcclIpY,2
+Hospital and Operating Theatre,https://www.youtube.com/embed/jlJnQOQN6sU,1
+Hospital Theatre,https://www.youtube.com/embed/qeY7EmIv7vw,2
+Hospitality,https://www.youtube.com/embed/YtbJvGvaXtk&list=PLLPZVmpSEVzyCXuNJWgaav5IN2-cakLbD&index=12,2
+Inland Revenue,https://www.youtube.com/embed/oH5ghvUUTqw,"1,2"
+Interior Designer ,https://www.youtube.com/embed/L5frPQ4Kz1w,"4,5"
+Interior Systems,https://www.youtube.com/embed/bfMqjTBZS1Y&list=PLLPZVmpSEVzx3xYkTLTMokawHE6x-6tBC&index=8,"5,6"
+Interior Systems,https://www.youtube.com/embed/1GVaAr4-Apw&index=5&list=PLLPZVmpSEVzyn3c2uKNED9ePovcVyvTF0,"5,6"
+Irrigation,https://www.youtube.com/embed/TxwRvsrU1Zg,"3,6"
+Joinery,https://www.youtube.com/embed/RQCSsjHkVys&list=PLLPZVmpSEVzyn3c2uKNED9ePovcVyvTF0&index=3,"4,6"
+KFC,https://www.youtube.com/embed/vcbiM5RVnZ4,2
+Kura Kaupapa Primary Teacher,https://www.youtube.com/embed/CDeTYnlh6n4,1
+Landscaping,https://www.youtube.com/embed/J9VY85U7oxg,"3,4,5"
+Line Fishing,https://www.youtube.com/embed/yAQTNIy_zu0,3
+Log Transportation,https://www.youtube.com/embed/G1z0PAjzcDc,2
+Logistics and Freight Forwarding ,https://www.youtube.com/embed/YiLHsTf1Ldk,2
+Maritime Hospitality - Interislander,https://www.youtube.com/embed/YYVzYiTE8_o&list=PLLPZVmpSEVzyCXuNJWgaav5IN2-cakLbD&index=14,3
+McDonalds,https://www.youtube.com/embed/54kt0xYOlMo,2
+McDonalds - Crew Member,https://www.youtube.com/embed/3LF_ofBrgfU&index=17&list=PLLPZVmpSEVzyCXuNJWgaav5IN2-cakLbD,2
+McDonalds - Head Office Careers NZ,https://www.youtube.com/embed/PTtwH4z0Zjk&list=PLLPZVmpSEVzyCXuNJWgaav5IN2-cakLbD&index=19,2
+McDonalds - Restaurant Manager,https://www.youtube.com/embed/1mARKTY_LVo&list=PLLPZVmpSEVzyCXuNJWgaav5IN2-cakLbD&index=18,2
+Meat Processing,https://www.youtube.com/embed/E5O4l7wkZ9A,3
+Mechanical Engineer ,https://www.youtube.com/embed/vlh7eED7w-8&index=24&list=PLBBD27DE60692B177,6
+Mechanical Engineering Technician ,https://www.youtube.com/embed/rt-HAx0qxaQ&list=PLLPZVmpSEVzwx2g38iob_UDFG8BKLVWFY&index=13,6
+Medical Laboratory Scientist,https://www.youtube.com/embed/KDCjlhhnfgI&list=PLLPZVmpSEVzzdYQIcGLDy8iZx0NI6tbIE&index=3,1
+Medical Laboratory Scientist,https://www.youtube.com/embed/_5yo31Pjx0c,2
+Medical Laboratory Scientist,https://www.youtube.com/embed/6eZnK5YTvt0,1
+Mental Health,https://www.youtube.com/embed/gu_hiRkIqLY&index=10&list=PLLPZVmpSEVzzdYQIcGLDy8iZx0NI6tbIE,1
+Mining,https://www.youtube.com/embed/Cif6Opn7WC0,"3,5,6"
+Motor Trimming,https://www.youtube.com/embed/oXt39x7v5jA&list=PLLPZVmpSEVzw_l02-YQRiSwiutXFOQrca&index=13,6
+Motorcycle Engineering,https://www.youtube.com/embed/rEt16Mh7DZw&list=PLLPZVmpSEVzw_l02-YQRiSwiutXFOQrca&index=9,6
+Museum Host - Te Papa,https://www.youtube.com/embed/OC7rgjdYuUE,2
+Mussel Farming,https://www.youtube.com/embed/nHQh0dqJXyA,3
+Navy,https://www.youtube.com/embed/vZTLh3r-fCI,"1,2,6"
+Navy Officer,https://www.youtube.com/embed/fmm_GoYHHGs,"1,2"
+Nurse with Dept of Corrections,https://www.youtube.com/embed/VwfkIoEPfHk&list=PLLPZVmpSEVzzdYQIcGLDy8iZx0NI6tbIE&index=13,1
+Nurseryman Production,https://www.youtube.com/embed/BuAmOvDtrME,"3,5"
+NZ Army Electronics Technician ,https://www.youtube.com/embed/8-z9lbsxHJE,"1,2,6"
+Occupational Therapy,https://www.youtube.com/embed/EmSweaCCnjA,2
+Ophthalmology with The Eye Institute ,https://www.youtube.com/embed/s4TNlR_WLgs,1
+Optometrist,https://www.youtube.com/embed/1NB4YA9Q7bw&list=PLBBD27DE60692B177&index=10,1
+Optometrist2 ,https://www.youtube.com/embed/puglVoGRHxo&index=9&list=PLBBD27DE60692B177,1
+Optometry - Study Path,https://www.youtube.com/embed/9YJHUrVkTh4,1
+Optometry with Specsavers,https://www.youtube.com/embed/Og8imIV8Qqk,1
+Outdoor Power Equipment Technician,https://www.youtube.com/embed/KJbb4K-fqRY,6
+Outdoor Recreation,https://www.youtube.com/embed/466NTNIutos&index=13&list=PLLPZVmpSEVzyCXuNJWgaav5IN2-cakLbD,1
+Outdoor Recreation Guide/Instructor,https://www.youtube.com/embed/wGme19zkJfc,6
+Overseas Experience,https://www.youtube.com/embed/gebZMJ4DK_8,0
+Painting and Decorating,https://www.youtube.com/embed/ZVChVtgFHvM&list=PLLPZVmpSEVzyn3c2uKNED9ePovcVyvTF0&index=12,"4,5"
+Painting and Decorating,https://www.youtube.com/embed/XL1dFu2RS7E,"4,5"
+Painting and Decorating ,https://www.youtube.com/embed/XL1dFu2RS7E&list=PLLPZVmpSEVzx3xYkTLTMokawHE6x-6tBC&index=12,"4,5"
+Pavement Surfacing,https://www.youtube.com/embed/PxvWJicLNyk&list=PLLPZVmpSEVzwx2g38iob_UDFG8BKLVWFY&index=10,"5,6"
+Performing Arts Teacher,https://www.youtube.com/embed/YFup_YOi58Q,"1,3"
+Personal Fitness Trainer,https://www.youtube.com/embed/MkEeepRne-k,2
+Petrochemical Engineer,https://www.youtube.com/embed/LurOPb6lbxI&index=15&list=PLLPZVmpSEVzwx2g38iob_UDFG8BKLVWFY,6
+Pharmacist,https://www.youtube.com/embed/0xxcQQtZKzI&index=2&list=PLLPZVmpSEVzzdYQIcGLDy8iZx0NI6tbIE,1
+Pharmacy Technician,https://www.youtube.com/embed/-jjeKxpAEZM&index=1&list=PLLPZVmpSEVzzdYQIcGLDy8iZx0NI6tbIE,1
+Physiotherapy and Occupational Therapy,https://www.youtube.com/embed/BiK0w39ZvlM,1
+Pizza Hut,https://www.youtube.com/embed/f9Slq2ck7xQ,2
+Plumbing,https://www.youtube.com/embed/F3iCl8pyN4c&list=PLLPZVmpSEVzwf6kgA4UFsdglBi3fSx0H_&index=6,5
+Power Technician & Line Mechanic,https://www.youtube.com/embed/FhrRS4LPhNI,6
+Production Worker ,https://www.youtube.com/embed/6UEojp7lCks,6
+Public Health Doctor,https://www.youtube.com/embed/xvn3wiHb81E,1
+Public Health Nurse,https://www.youtube.com/embed/-u4kpl3nvcA&index=7&list=PLLPZVmpSEVzzdYQIcGLDy8iZx0NI6tbIE,1
+Public Health Programme Coordinator,https://www.youtube.com/embed/vSBq9zlId7A,1
+Public Health Promotion,https://www.youtube.com/embed/XBmYf1Dusiw,2
+Quarrying,https://www.youtube.com/embed/VgGtM5PPcT8&list=PLLPZVmpSEVzyNxeeQJYFYvK_5KA0lAxh9,"5,6"
+Real Estate,https://www.youtube.com/embed/FEiF0fMUpvA&list=PLLPZVmpSEVzwf6kgA4UFsdglBi3fSx0H_,2
+Real Estate,https://www.youtube.com/embed/qL5JdlIwKao&index=13&list=PLLPZVmpSEVzwf6kgA4UFsdglBi3fSx0H_,2
+Refrigeration Engineering,https://www.youtube.com/embed/s8RHouFMRvc&list=PLLPZVmpSEVzwx2g38iob_UDFG8BKLVWFY&index=11,6
+Removalist,https://www.youtube.com/embed/C2EslRuYiJI,2
+Residential Building,https://www.youtube.com/embed/f5XtNxwGEWM&list=PLLPZVmpSEVzx3xYkTLTMokawHE6x-6tBC,5
+Residential Building,https://www.youtube.com/embed/sgd0APsLSXQ,5
+Resin Flooring,https://www.youtube.com/embed/vzZ-4dK79mQ&list=PLLPZVmpSEVzx3xYkTLTMokawHE6x-6tBC&index=2,5
+Resource Recovery,https://www.youtube.com/embed/KZ0WJRlLoP8,2
+Resource Teacher in Learning and Behaviour,https://www.youtube.com/embed/APZ8NVYik9A&list=PLLPZVmpSEVzzFmiKgA9xsZf-woMJg7Beu&index=5,2
+Restaurant Manager,https://www.youtube.com/embed/nD1SLSzOVIU&list=PLBBD27DE60692B177&index=3,2
+Retail,https://www.youtube.com/embed/ecAPuWZmjjo,2
+Retail Account Manager,https://www.youtube.com/embed/Tn-om7472DM&index=7&list=PLLPZVmpSEVzyCXuNJWgaav5IN2-cakLbD,2
+Retail Buying,https://www.youtube.com/embed/wXNIk5KOlGE&list=PLLPZVmpSEVzyCXuNJWgaav5IN2-cakLbD&index=6,2
+Retail Meat Industry,https://www.youtube.com/embed/DXsBJg1lsXM,2
+Retail Sales - Mitre 10 Mega,https://www.youtube.com/embed/yRtZiEjWvUk&index=2&list=PLLPZVmpSEVzyCXuNJWgaav5IN2-cakLbD,2
+Retail Sales - Overland Shoes,https://www.youtube.com/embed/_WasP1uCXkE&list=PLLPZVmpSEVzyCXuNJWgaav5IN2-cakLbD&index=3,2
+Retail Sales Assistant,https://www.youtube.com/embed/n-K255cyBDk&list=PLBBD27DE60692B177&index=5,2
+RNZAF - Air Security Specialist ,https://www.youtube.com/embed/Ku4OgU8AdQI&list=PLLPZVmpSEVzxhhwQ0z7A5DB74NDAjPPdI&index=9,"1,2"
+RNZAF - Air Warfare Specialist ,https://www.youtube.com/embed/lf5X10Q-YyA&index=8&list=PLLPZVmpSEVzxhhwQ0z7A5DB74NDAjPPdI,"1,2"
+RNZAF Aircraft Technician,https://www.youtube.com/embed/v2P-N0Bj7XI&list=PLLPZVmpSEVzxhhwQ0z7A5DB74NDAjPPdI&index=6,"1,2,6"
+RNZAF Avionics,https://www.youtube.com/embed/qkqVP6v2DUU&list=PLLPZVmpSEVzxhhwQ0z7A5DB74NDAjPPdI&index=2,"1,2,6"
+RNZAF Avionics Technician,https://www.youtube.com/embed/wCMx5ruDa5E,"1,2,6"
+RNZAF Communication and Information Systems Technician,https://www.youtube.com/embed/2ph272spWds&list=PLLPZVmpSEVzxhhwQ0z7A5DB74NDAjPPdI&index=5,"1,2,6"
+RNZAF Engineering Officer,https://www.youtube.com/embed/TU0Z1xadbu0&list=PLLPZVmpSEVzxhhwQ0z7A5DB74NDAjPPdI&index=7,"1,2,6"
+RNZAF Pilot,https://www.youtube.com/embed/C48Lr07wyrs&list=PLLPZVmpSEVzxhhwQ0z7A5DB74NDAjPPdI,"1,2"
+RNZAF Safety and Surface Technician,https://www.youtube.com/embed/y2UXNd5eW5g&list=PLLPZVmpSEVzxhhwQ0z7A5DB74NDAjPPdI&index=3,"1,2"
+Road Construction,https://www.youtube.com/embed/f8a95Nkg2fA&list=PLLPZVmpSEVzwx2g38iob_UDFG8BKLVWFY&index=2,"5,6"
+Roadmarking,https://www.youtube.com/embed/C8Z2qOAEGGk,5
+Roofer ,https://www.youtube.com/embed/1nnBxjEFlIw&index=20&list=PLBBD27DE60692B177,5
+Roofing,https://www.youtube.com/embed/QpN3_BMl7K8&list=PLLPZVmpSEVzwf6kgA4UFsdglBi3fSx0H_&index=3,5
+Roofing,https://www.youtube.com/embed/GE0k2HAPGGg&index=10&list=PLLPZVmpSEVzwf6kgA4UFsdglBi3fSx0H_,5
+Rural Contracting,https://www.youtube.com/embed/zlKzxsKxcTM&index=2&list=PLLPZVmpSEVzz7jXkheuUflts3aDI49nSf,"2,3"
+Rural Contracting,https://www.youtube.com/embed/zlKzxsKxcTM&list=PLLPZVmpSEVzz7jXkheuUflts3aDI49nSf&index=2,"2,3"
+Rural Servicing,https://www.youtube.com/embed/FAwU8j0RgYM,"2,3"
+Salmon Farming,https://www.youtube.com/embed/hh-4onzMvfU,3
+Saw Mill,https://www.youtube.com/embed/TCaqBBR63sU,"3,6"
+Scaffolder ,https://www.youtube.com/embed/nr0jvM9-YUc&index=21&list=PLBBD27DE60692B177,5
+Scaffolding,https://www.youtube.com/embed/Ps-5FlUKTss&index=9&list=PLLPZVmpSEVzwf6kgA4UFsdglBi3fSx0H_,5
+School Principal,https://www.youtube.com/embed/U4U6-4EUAPE,1
+Secondary School Teacher,https://www.youtube.com/embed/F-Bf-ffu6v8,1
+Security,https://www.youtube.com/embed/ydKyMNsDq6E&list=PLLPZVmpSEVzwf6kgA4UFsdglBi3fSx0H_&index=12,2
+Sheep and Beef Farming,https://www.youtube.com/embed/Yp6O2xhi_pA,3
+Sheep and Beef Farming,https://www.youtube.com/embed/wDexL9m8k5o,3
+Skycity - Restaurant Manager,https://www.youtube.com/embed/CPzAgd5-Nbo,2
+Skycity - Table Games Dealer,https://www.youtube.com/embed/7H4aHZgqvEw,2
+Solid Plastering,https://www.youtube.com/embed/v3qwRwOIwDw&index=6&list=PLLPZVmpSEVzyn3c2uKNED9ePovcVyvTF0,"4,5"
+Sports Leisure Centre Management ,https://www.youtube.com/embed/MTX-hoA_RBw,2
+Sports Turf Management - Cricket,https://www.youtube.com/embed/ai7JQIR5qxk,"2,3"
+Sports Turf Management - WestPac,https://www.youtube.com/embed/U587FCSbaqE,"2,3"
+Store Manager Warehouse Stationery,https://www.youtube.com/embed/uoppSm6Z4b4,2
+Surveying,https://www.youtube.com/embed/HC-WSsRawnE&list=PLLPZVmpSEVzyNxeeQJYFYvK_5KA0lAxh9&index=2,5
+Telecommunications,https://www.youtube.com/embed/iaxx3Cg2Kbs&index=14&list=PLLPZVmpSEVzwf6kgA4UFsdglBi3fSx0H_,"2,6"
+The Warehouse - Team Leader,https://www.youtube.com/embed/oAOAYbMBk_k,2
+Timber Flooring,https://www.youtube.com/embed/tBrm-tEV1nU&list=PLLPZVmpSEVzx3xYkTLTMokawHE6x-6tBC&index=10,"4,5"
+Timber Flooring,https://www.youtube.com/embed/Pvn6Ow64SjQ&list=PLLPZVmpSEVzyn3c2uKNED9ePovcVyvTF0&index=4,"4,5"
+Tourism,https://www.youtube.com/embed/2MTovH5I_PE&list=PLLPZVmpSEVzyCXuNJWgaav5IN2-cakLbD,2
+Tourism - Maori Tourism,https://www.youtube.com/embed/0Ce2xbS2sxA&list=PLLPZVmpSEVzyCXuNJWgaav5IN2-cakLbD&index=15,2
+Tourism - Rotorua,https://www.youtube.com/embed/2MTovH5I_PE,2
+Train Driver,https://www.youtube.com/embed/qKWPX6CKPYQ&index=14&list=PLLPZVmpSEVzw_l02-YQRiSwiutXFOQrca,2
+Travel Agency Consultant,https://www.youtube.com/embed/RmJr-EyLLGw&list=PLLPZVmpSEVzyCXuNJWgaav5IN2-cakLbD&index=20,2
+Treescape - Arborist,https://www.youtube.com/embed/9tIWnH3vEPs,"2,3,5"
+Treescape - Land Clearing,https://www.youtube.com/embed/S1GuxN1QhW0,"2,3,5"
+Treescape - Utility Arborist,https://www.youtube.com/embed/_AYFqFe3e5o,"2,3,5"
+Truck Driving Part 1,https://www.youtube.com/embed/KUSzKMsD7FE&index=6&list=PLLPZVmpSEVzw_l02-YQRiSwiutXFOQrca,2
+Truck Driving Part 2,https://www.youtube.com/embed/F_rBXH7LQ5o&index=7&list=PLLPZVmpSEVzw_l02-YQRiSwiutXFOQrca,2
+Truck Driving Part 3,https://www.youtube.com/embed/_byTT7tBTE8&index=5&list=PLLPZVmpSEVzw_l02-YQRiSwiutXFOQrca,2
+Vegetable Production ,https://www.youtube.com/embed/pTGMBIrhZOI,3
+Veterinarian,https://www.youtube.com/embed/wckXjcD5C58&index=4&list=PLLPZVmpSEVzz7jXkheuUflts3aDI49nSf,3
+Veterinary Nurse ,https://www.youtube.com/embed/eFdtiRPerag,3
+Viticulture,https://www.youtube.com/embed/awp1lCXUsug,3
+Volunteer Firefighter,https://www.youtube.com/embed/kIkswup_Ea4&index=12&list=PLLPZVmpSEVzxhhwQ0z7A5DB74NDAjPPdI,1
+Volunteer Rural Firefighter,https://www.youtube.com/embed/LDrSGOaD-V4,1
+Warehouse Stationery - Store Manager ,https://www.youtube.com/embed/46v0OuuravE&list=PLLPZVmpSEVzyCXuNJWgaav5IN2-cakLbD&index=21,2
+Warehousing & Distribution,https://www.youtube.com/embed/QTrzEZJEX0c,2
+Waste Water Treatment ,https://www.youtube.com/embed/N7tI14oH5XM,"5,6"
+Water Reticulation,https://www.youtube.com/embed/cBs0IHu9zQA,"5,6"
+Water Treatment,https://www.youtube.com/embed/ZjwWhNjJlNc,"5,6"
+Winemaker ,https://www.youtube.com/embed/iVTr3eStrW8,3
+Wool Harvesting,https://www.youtube.com/embed/oKtON4ZP0rc,3
+Working for Yourself,https://www.youtube.com/embed/QTme7NVzxOg,0
+Youth Social Worker,https://www.youtube.com/embed/Kf9Sm1mDhas,1
+SADD Video,https://www.youtube.com/embed/PuqvSrluJig,-1
+Bachelor of IT,https://www.youtube.com/embed/9MPZSZC7q2c,0
+Civil Engineering,https://www.youtube.com/embed/lGOqqHrBmmw,0
+Abacus Bio,https://www.youtube.com/embed/W5VLd3xY834,0
+Fringe Festival,https://www.youtube.com/embed/69WGQ-46U9A,0
+Southern District Health Board,https://www.youtube.com/embed/PMTVm0yi3Vo,0
+RATA South Otago,https://www.youtube.com/embed/XnDuGqwJZVY,0
+Pier 24,https://www.youtube.com/embed/_ZjDD5NUWs8,0
+Why Otago Polytechnic,https://www.youtube.com/embed/-MlNPRMB-N0,0
+NZ Cricket,https://www.youtube.com/embed/8gJeyU6HI0k,0
+Cardrona Alpine Resort,https://www.youtube.com/embed/lXmvOV3oCKQ,0
+Architecture van Brandenburg,https://www.youtube.com/embed/W-tvZYwyHyA,0
+Wainwright and Co,https://www.youtube.com/embed/w3tgqoeZuQM,0
+Green Island Veterinary Clinic,https://www.youtube.com/embed/omI_UwqwsKk,0
+School of Art,https://www.youtube.com/embed/whLJL4hYDhw,0
+Graduate Tessa Hewlett,https://www.youtube.com/embed/0HaDuItCqhk,0
+Graduate Nina Daniels,https://www.youtube.com/embed/1DQ6Kuoa2os,0
+Graduate Kirsty Lind,https://www.youtube.com/embed/7abqkpeqmJk,0
+Graduate Finn Glover,https://www.youtube.com/embed/XA0NyAQG6sM,0
+Graduate Dean Griffiths,https://www.youtube.com/embed/UuLpGOFC5AI,0
+Francis Hooper,https://www.youtube.com/embed/vUrcQtRJPXQ,0
+Lachlan Rutherford,https://www.youtube.com/embed/Lp_0xG7Fn-0,0

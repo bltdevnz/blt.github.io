@@ -1,0 +1,729 @@
+AWSTATS DATA FILE 6.95 (build 1.943)
+# If you remove this file, all statistics for date 201510 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.malcam4me.kiwi.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1960                
+POS_TIME 2663                
+POS_VISITOR 14170               
+POS_DAY 23649               
+POS_DOMAIN 3499                
+POS_LOGIN 3896                
+POS_ROBOT 4051                
+POS_WORMS 4607                
+POS_EMAILSENDER 4738                
+POS_EMAILRECEIVER 4881                
+POS_SESSION 24413               
+POS_SIDER 24626               
+POS_FILETYPES 5016                
+POS_OS 5286                
+POS_BROWSER 5430                
+POS_SCREENSIZE 6394                
+POS_UNKNOWNREFERER 6468                
+POS_UNKNOWNREFERERBROWSER 7018                
+POS_ORIGIN 7357                
+POS_SEREFERRALS 7505                
+POS_PAGEREFS 7671                
+POS_SEARCHWORDS 8643                
+POS_KEYWORDS 8809                
+POS_MISC 2325                
+POS_ERRORS 8886                
+POS_CLUSTER 3752                
+POS_SIDER_404 9031                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20151028223731 184724 44503138 16451497396357
+FirstTime 20151001111554
+LastTime 20151028215702
+LastUpdate 20151029000934 184724 0 4892 28501 151331
+TotalVisits 252                 
+TotalUnique 165                 
+MonthHostsKnown 119                 
+MonthHostsUnknown 67                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 196 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 7 11 53603 9 11 9230
+1 5 22 7835 3 5 5015
+2 1 1 3895 11 16 74574
+3 8 12 115588 11 12 15628
+4 7 10 60458 4 6 31977
+5 3 20 499058 7 16 56753
+6 14 31 485223 13 41 243558
+7 44 61 519148 7 8 15785
+8 260 1322 5129933 21 50 192483
+9 726 4426 5037076 31 74 229383
+10 469 2674 11751985 21 38 42527
+11 632 2768 10623541 67 248 1652402
+12 714 2664 13292487 72 124 77091
+13 466 2921 7899596 43 59 55414
+14 804 3948 10741225 201 233 454510
+15 377 2331 5710422 63 81 80804
+16 470 2411 6810881 46 126 1490793
+17 48 132 1454515 14 47 457230
+18 38 114 1803464 8 15 23070
+19 61 200 3648797 11 47 309991
+20 83 197 1925646 13 20 305926
+21 54 175 2591273 11 23 86974
+22 15 53 954985 13 55 1074603
+23 20 110 2432761 21 42 164488
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 11
+ip 4334 23386 47279974
+nz 463 1676 20122281
+com 413 1248 20896818
+net 58 126 1861112
+eu 31 31 204246
+au 17 120 2725225
+lu 4 4 14315
+link 2 2 4640
+ca 2 19 438434
+cn 1 1 2455
+vn 1 1 3895
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+bot[\s_+:,\.\;\/\\-] 108 2148748 20151028223731 0
+googlebot 93 652212 20151028220350 0
+facebook 92 2208828 20151026113018 0
+favicon 32 76473 20151028113340 0
+wordpress 29 12897 20151028210713 0
+baiduspider 9 47550 20151027174550 0
+discovery 4 25960 20151020150110 0
+surveybot 2 4968 20151022203140 0
+robot 2 0 20151010041700 0
+scanner 1 10557 20151020120344 0
+netcraft 1 6393 20151010132210 0
+crawl 1 2455 20151017065121 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+eot 1 14935 0 0
+css 1776 1828432 0 0
+png 12744 64300770 0 0
+ttf 647 3357176 0 0
+php 1804 6105187 0 0
+html 1848 5003453 0 0
+js 4436 7483049 0 0
+jpg 2301 3810066 0 0
+Unknown 1019 1616282 0 0
+svg 7 1521 0 0
+gif 31 32524 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 9
+macosx 579
+linuxandroid 1455
+winxp 20
+unix 103
+winnt 260
+Unknown 22
+linux 229
+winvista 321
+win2008 23625
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 51
+safari7.0 44
+msie6.0 5
+chrome45.0.2454.85 20
+android 58
+chrome40.0.2214.111 20835
+chrome38.0.2125.101 52
+chrome39.0.2171.95 47
+opera9.80 38
+chrome15.0.874.121 1
+msie8.0 4
+iphone 130
+chrome46.0.2490.76 274
+chrome43.0.2357.81 269
+chrome45.0.2454.93 105
+chrome41.0.2272.101 20
+msie7.0 7
+chrome37.0.2062.120 4
+firefox41.0 187
+chrome27.0.1453 56
+safari8.0 40
+msie9.0 26
+chrome45.0.2454.95 42
+chrome31.0.1650.59 433
+Unknown 18
+firefox11.0 1
+netscape 1
+chrome10.0.648.127 1
+safari9.0.1 18
+chrome47.0.2526.25 19
+chrome46.0.2479.0 34
+chrome46.0.2490.71 513
+chrome38.0.2125.102 513
+chrome46.0.2490.80 78
+chrome45.0.2454.94 73
+safari9.0 23
+firefox33.0 3
+mozilla 535
+chrome45.0.2454.101 1345
+chrome44.0.2403.157 21
+netscape5.0 3
+chrome42.0.2311.135 64
+firefox14.0.1 1
+msie10.0 129
+safari8.0.2 3
+chrome39.0.2171.99 17
+chrome43.0.2357.134 225
+chrome41.0.2228.0 15
+safari8.0.3 29
+firefox35.0 41
+safari 23
+chrome29.0.1547.72 171
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 11
+Mozilla 20151027142654
+visionutils/0.2 20151026113022
+Mozilla/5.0_(compatible;__http://www.hosterstats.com/newgtld-websurvey.php) 20151008223539
+PHP/5.2.53 20151026153157
+PHP/5.2.04 20151025071001
+Mozilla/5.0_Moreover/5.1_(_http://www.moreover.com;_webmaster@moreover.com) 20151020115739
+PHP/5.3.83 20151023170922
+PHP/5.3.22 20151020235914
+PHP/5.2.91 20151024033233
+PHP/5.3.95 20151022160330
+PHP/5.{3|2}.{1|2|3|4|5|6|7|8|9|0}{1|2|3|4|5|6|7|8|9|0} 20151026153156
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 8
+PHP/5.3.83 20151023170922
+PHP/5.3.22 20151020235914
+visionutils/0.2 20151026113022
+PHP/5.2.53 20151026153157
+PHP/5.2.04 20151025071001
+PHP/5.2.91 20151024033233
+PHP/5.3.95 20151022160330
+PHP/5.{3|2}.{1|2|3|4|5|6|7|8|9|0}{1|2|3|4|5|6|7|8|9|0} 20151026153156
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1213 1224
+From1 0 0
+From2 42 42
+From3 85 122
+From4 3986 25226
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 40 40
+bing 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 21
+https://www.facebook.com 27 28
+http://m.facebook.com 13 13
+http://mobiletest.me/htc_one_emulator/ 12 12
+http://l.facebook.com/l.php 11 11
+http://127.0.0.1:7569 4 21
+http://mobiletest.me/iphone_5_emulator/ 3 3
+http://lm.facebook.com/l.php 2 2
+http://burger-imperia.com 2 2
+http://mobiletest.me/samsung_galaxy_y_emulator/ 1 1
+http://pizza-tycoon.com 1 1
+http://mobiletest.me/htc_one_emulator 1 1
+http://127.0.0.1:7569/update/ 0 17
+http://mobiletest.me/nokia_lumia_920_emulator/ 1 1
+http://hundejo.com 1 1
+http://mobiletest.me/google_nexus_7_emulator/ 1 1
+http://l.facebook.com/lsr.php 1 1
+http://sk-sk.saatchi.dewww.fb.me 1 1
+http://www.printfriendly.com/print/ 0 2
+http://127.0.0.1:7569/update/css/4me.css 1 1
+http://mobiletest.me/ipad_mini_emulator/ 1 1
+http://www.fundraiseonline.co.nz/fundraise/selectcharity_dn.aspx 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+malcam+4+me 2
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 3
+me 2
+4 2
+malcam 2
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+302 286 485006
+206 100 840689
+500 66 11525
+301 40 6564
+404 307 406984
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 61
+/wordpress/service-industries/js/scripts.js 1 http://malcam4me.kiwi/wordpress/service-industries/
+/wordpress/trackback/ 1 http://malcam4me.kiwi/wordpress/
+/theme.php&t=yay 7 http://malcam4me.kiwi/light/
+/update/themes/js/scripts.js 3 http://malcam4me.kiwi/update/
+/js/scripts.js 15 http://malcam4me.kiwi/admin
+/robots.txt 69 -
+/css/4me.css 13 http://malcam4me.kiwi/admin
+/wordpress/manufacturing-and-technology/js/jquery-2.1.4.min.js 3 http://malcam4me.kiwi/wordpress/manufacturing-and-technology/
+/wordpress/manufacturing-and-technology/watch.php 16 http://malcam4me.kiwi/wordpress/manufacturing-and-technology/
+/wordpress/social-and-community-services/%27http:/malcam4me.kiwi/wordpress/wp-content/themes/twentythirteen/js/jquery-2.1.4.min.js 1 http://malcam4me.kiwi/wordpress/social-and-community-services/
+/wordpress/primary-industries/images/close.png 2 http://malcam4me.kiwi/wordpress/primary-industries/
+/update//css/4me.css 1 http://malcam4me.kiwi/update/
+/wordpress/social-and-community-services/css/4me.css 5 http://malcam4me.kiwi/wordpress/social-and-community-services/
+/wordpress/manufacturing-and-technology/css/4me.css 3 http://malcam4me.kiwi/wordpress/manufacturing-and-technology/
+/update/js/mobile.js 2 http://malcam4me.kiwi/update/admin.php
+/%3E 3 -
+/light/ 2 http://www.malcam4me.kiwi/
+/theme.php&t=reg 5 http://malcam4me.kiwi/light/
+/wordpress/social-and-community-services/watch.php 8 http://malcam4me.kiwi/wordpress/social-and-community-services/
+/wordpress/social-and-community-services/%27http:/malcam4me.kiwi/wordpress/wp-content/themes/twentythirteen/js/4menu.js 1 http://malcam4me.kiwi/wordpress/social-and-community-services/
+/wordpress/service-industries/js/4menu.js 1 http://malcam4me.kiwi/wordpress/service-industries/
+/m/ 4 -
+/= 1 -
+/wordpress/service-industries/css/4me.css 1 http://malcam4me.kiwi/wordpress/service-industries/
+/wordpress/social-and-community-services/js/css/4me.css 2 http://malcam4me.kiwi/wordpress/social-and-community-services/js/scripts.js
+/wordpress/social-and-community-services/%27http:/malcam4me.kiwi/wordpress/wp-content/themes/twentythirteen/css/4me.css 2 http://malcam4me.kiwi/wordpress/social-and-community-services/
+/wordpress/social-and-community-services/js/js/scripts.js 2 http://malcam4me.kiwi/wordpress/social-and-community-services/js/scripts.js
+/wordpress/manufacturing-and-technology/js/4menu.js 3 http://malcam4me.kiwi/wordpress/manufacturing-and-technology/
+/404 13 http://malcam4me.kiwi/
+/js/mobile.js 14 http://malcam4me.kiwi/admin
+/js/jquery-2.1.4.min.js 13 http://malcam4me.kiwi/admin
+/update/theme.php 1 http://malcam4me.kiwi/update/
+/update/themes/js/jquery-2.1.4.min.js 3 http://malcam4me.kiwi/update/
+/update//js/scripts.js 1 http://malcam4me.kiwi/update/
+/update/ 5 http://malcam4me.kiwi/update/
+/%3Cp%3E%3Ccenter%3E%3Cbold%3E 1 http://malcam4me.kiwi/
+/wordpress/manufacturing-and-technology/js/scripts.js 3 http://malcam4me.kiwi/wordpress/manufacturing-and-technology/
+/mobile/ 3 -
+/wordpress/social-and-community-services/js/js/jquery-2.1.4.min.js 2 http://malcam4me.kiwi/wordpress/social-and-community-services/js/scripts.js
+/js/4menu.js 1 -
+/update/themes/css/4me.css 3 http://malcam4me.kiwi/update/
+/update/css/fnt.ttf 2 http://malcam4me.kiwi/update/css/4me.css
+/wordpress/construction-and-infrastructure/images/close.png 1 http://malcam4me.kiwi/wordpress/construction-and-infrastructure/
+/update//js/jquery-2.1.4.min.js 1 http://malcam4me.kiwi/update/
+/wordpress/social-and-community-services/js/js/4menu.js 2 http://malcam4me.kiwi/wordpress/social-and-community-services/js/scripts.js
+/light/theme.php 2 http://malcam4me.kiwi/light/
+/update/themes/js/4menu.js 3 http://malcam4me.kiwi/update/
+/wordpress/service-industries/js/jquery-2.1.4.min.js 1 http://malcam4me.kiwi/wordpress/service-industries/
+/wordpress/manufacturing-and-technology/images/close.png 9 http://malcam4me.kiwi/wordpress/manufacturing-and-technology/
+/update//js/4menu.js 1 http://malcam4me.kiwi/update/
+/wordpress/social-and-community-services/%27http:/malcam4me.kiwi/wordpress/wp-content/themes/twentythirteen/js/scripts.js 1 http://malcam4me.kiwi/wordpress/social-and-community-services/
+/wordpress/social-and-community-services/images/close.png 1 http://malcam4me.kiwi/wordpress/social-and-community-services/
+/theme.php 1 http://malcam4me.kiwi/
+/wordpress/social-and-community-services/js/scripts.js 3 http://malcam4me.kiwi/wordpress/social-and-community-services/
+/wordpress/social-and-community-services/js/4menu.js 3 http://malcam4me.kiwi/wordpress/social-and-community-services/
+/login 29 http://malcam4me.kiwi/admin
+/wordpress/social-and-community-services/js/jquery-2.1.4.min.js 2 http://malcam4me.kiwi/wordpress/social-and-community-services/
+/apple-app-site-association 1 -
+/admin/ 2 -
+/preview/images/logo.png 1 -
+/preview/reset-1-0CnJV3dAcEWb0tqXPolb 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 186
+202.49.0.2 4003 22271 30439481 20151028165022
+egress107.cws.sco.cisco.com 269 665 10514868 20151027131724
+118-92-71-223.dsl.dyn.ihug.co.nz 105 350 2727811 20151028211717
+egress118.cws.sco.cisco.com 101 341 4931752 20151020193449
+115-188-98-48.jetstream.xtra.co.nz 49 66 526560 20151001121716
+122.56.210.35 36 124 678036 20151028112713
+202.175.137.167 35 73 970483 20151008074941
+210.55.180.44 33 101 1801425 20151020150115
+203-109-167-194.dial.dyn.ihug.co.nz 32 66 885336 20151027121322
+208.91.224.49.dyn.cust.vf.net.nz 30 166 574375 20151028112637
+cpe-264793.ip.primehome.com 12 44 860296 20151020182025
+60.234.101.221 1 1 2513 20151022000106
+122-57-205-210.jetstream.xtra.co.nz 29 50 605593 20151027205840
+hosted-by.reliablesite.net 2 2 7290 20151021142809
+69.58.178.56 1 1 6393 20151002173658
+msnbot-207-46-13-174.search.msn.com 0 1 2373 
+google-proxy-64-233-172-148.google.com 0 7 151883 
+5.231.76.96 2 2 2275 20151024171900
+chulak.enn.lu 1 1 2455 20151018221910
+178.33.168.61 1 1 3000 20151027171616
+38.87.45.212 16 16 62727 20151023122731
+117.120.224.49.dyn.cust.vf.net.nz 4 21 446636 20151022114032
+182.254.226.161 3 3 12079 20151021175346
+msnbot-199-30-24-39.search.msn.com 0 17 436045 
+ec2-50-19-155-224.compute-1.amazonaws.com 1 5 37589 20151009132042
+89.33.71.136 2 2 2275 20151026151843
+217.10.52.10 2 19 440864 20151005194330
+google-proxy-64-233-172-164.google.com 1 7 293351 20151027112600
+162.244.14.170 1 1 10557 20151020120019
+154.127.60.40 3 3 5567 20151028210718
+62.146.214.218.sta.commander.net.au 4 22 521153 20151028130334
+182.54.162.218 4 21 442044 20151018182413
+223.30.21.58 1 1 3895 20151022204505
+node-jpj.pool-180-180.dynamic.totbb.net 3 3 5670 20151023003123
+pa49-195-155-145.pa.nsw.optusnet.com.au 4 21 443929 20151026193516
+node-kdm.pool-180-180.dynamic.totbb.net 5 5 9271 20151026153157
+118-92-69-103.dsl.dyn.ihug.co.nz 0 2 17789 
+60-241-213-49.static.tpgi.com.au 1 18 438450 20151019121127
+node-fkh.pool-180-180.dynamic.totbb.net 3 3 5670 20151027075457
+node-fb6.pool-180-180.dynamic.totbb.net 5 5 9248 20151024033233
+lh28409.voxility.net 1 1 2513 20151025144255
+125-237-251-12.jetstream.xtra.co.nz 2 19 438793 20151013232140
+210.55.200.177 4 38 877440 20151012143337
+210.48.99.246 3 20 441674 20151006124329
+91.108.180.141 2 2 2275 20151022172129
+google-proxy-64-233-173-182.google.com 0 7 211734 
+nrc.actrix.co.nz 7 41 941390 20151027141035
+google-proxy-66-249-82-81.google.com 0 7 237129 
+124-197-57-106.callplus.net.nz 6 41 1078426 20151027155137
+google-proxy-64-233-173-177.google.com 0 9 220996 
+65.52.225.155 1 1 2455 20151001124827
+107.77.85.113 1 17 558525 20151009193152
+119-224-101-161.callplus.net.nz 17 34 461946 20151013142207
+google-proxy-66-249-82-201.google.com 0 11 294763 
+2.8.69.111.static.snap.net.nz 1 18 438409 20151007135413
+38.140.4.242 4 21 442004 20151002103831
+162.209.8.106 1 1 12516 20151021162413
+node-mvp.pool-180-180.dynamic.totbb.net 3 3 5670 20151020223432
+199.19.249.196 1 1 6393 20151005194233
+103.246.36.213 3 3 27740 20151006124329
+47-72-248-180.dsl.dyn.ihug.co.nz 1 18 438409 20151006215934
+61.104.224.49.dyn.cust.vf.net.nz 3 7 7663 20151028171617
+google-proxy-66-249-88-37.google.com 1 1 2228 20151027112234
+23-95-100-21-host.colocrossing.com 1 1 4695 20151023214728
+node-lmd.pool-180-180.dynamic.totbb.net 5 5 9271 20151022160330
+119.62.227.49.dyn.cust.vf.net.nz 5 22 444714 20151013130820
+54.86.224.49.dyn.cust.vf.net.nz 1 4 21277 20151005180144
+143.199.224.49.dyn.cust.vf.net.nz 5 23 521421 20151028155151
+31.13.109.116 0 1 18659 
+114.119.37.100 2 2 8514 20151021142816
+122-57-145-14.jetstream.xtra.co.nz 9 26 450675 20151007082443
+116-93-129-51.ue.woosh.co.nz 14 34 457954 20151020185539
+122.56.206.201 1 1 2513 20151022133150
+162.73.224.49.dyn.cust.vf.net.nz 4 21 444168 20151015093009
+194.58.232.221.broad.wh.hb.dynamic.163data.com.cn 1 1 2455 20151011190735
+118-92-75-110.dsl.dyn.ihug.co.nz 3 20 502401 20151012232456
+43-224-122-128.ip.cis.gen.nz 0 1 136467 
+203.96.129.24 9 42 923248 20151024161315
+203.96.129.231 10 37 614087 20151027151502
+31.13.100.119 0 1 18659 
+static.cmcti.vn 1 1 3895 20151021180613
+49.96.124.202.static.snap.net.nz 23 57 920566 20151028102934
+173.254.249.125.static.quadranet.com 1 1 3895 20151022104125
+162.209.102.100 1 1 12516 20151021162410
+proxy1sg.deewr.gov.au 2 19 440965 20151016172118
+204.101.161.159 2 6 95918 20151028200722
+node-ahj.pool-1-0.dynamic.totbb.net 3 3 5670 20151022154656
+222-155-138-184.jetstream.xtra.co.nz 3 20 441276 20151021101306
+163.251.224.49.dyn.cust.vf.net.nz 21 72 247136 20151028095501
+egress110.cws.sco.cisco.com 3 20 499966 20151027144943
+google-proxy-64-233-172-156.google.com 1 5 51231 20151027112559
+31.13.100.115 0 1 18659 
+191.101.116.89 1 1 1112 20151024083601
+205-3-148-118.nzcomms.co.nz 8 25 450594 20151006085246
+host-196.219.204.114-static.tedata.net 1 18 438450 20151013222605
+120.25.106.17 1 1 3395 20151020120038
+22.219.224.49.dyn.cust.vf.net.nz 1 18 438450 20151013114538
+118-92-75-93.dsl.dyn.ihug.co.nz 6 23 10290 20151003081858
+104.143.121.253 1 1 1163 20151024083606
+google-proxy-66-249-82-206.google.com 3 13 206009 20151028113524
+142-196-32-23.res.bhn.net 1 18 438558 20151023084108
+104.223.62.246.static.quadranet.com 1 1 3895 20151026183841
+122.56.211.245 1 18 438558 20151021130203
+node-jdz.pool-180-180.dynamic.totbb.net 5 5 9248 20151020235914
+203-214-154-64.perm.iinet.net.au 1 18 438409 20151007232611
+75-203-149-118.nzcomms.co.nz 2 19 440905 20151012134543
+150-70-173-43.trendmicro.com 1 1 6393 20151012141215
+195-154-46-135.rev.poneytelecom.eu 7 7 26765 20151024234614
+64.79.100.22.webcrawler.link 2 2 4640 20151027142654
+manning1.torservers.net 1 1 2455 20151012145126
+107.170.240.210 21 72 50092 20151020150802
+node-nip.pool-180-180.dynamic.totbb.net 5 5 9271 20151023170922
+104-168-75-192-host.colocrossing.com 3 3 11970 20151025145000
+225.217.224.49.dyn.cust.vf.net.nz 2 19 496603 20151028085608
+search01.whoisireland.com 1 1 6393 20151008223539
+5.231.76.119 1 1 4694 20151024112048
+google-proxy-64-233-173-172.google.com 1 7 284146 20151013080312
+webgateway-ext.itc.griffith.edu.au 5 22 442319 20151013143622
+195-154-146-225.rev.poneytelecom.eu 4 4 7506 20151028105958
+172.103.112.254 2 2 2275 20151025163254
+62-210-178-179.rev.poneytelecom.eu 4 4 14387 20151028163124
+google-proxy-66-249-82-78.google.com 1 8 114998 20151016194956
+msnbot-131-253-25-177.search.msn.com 0 17 436045 
+166.78.9.12 1 1 6587 20151021162410
+122-61-135-84.jetstream.xtra.co.nz 6 23 499157 20151027214135
+173.232.118.26 1 1 3895 20151024192949
+traffic-design-comb.tkcr4.global-gateway.net.nz 2 19 438752 20151005160024
+173.252.115.86 0 1 18659 
+74.125.63.33 16 103 2571580 20151028215702 20151028215642 /watch
+150-70-173-14.trendmicro.com 1 1 6393 20151014115236
+122.58.78.28 29 58 666363 20151028203906
+192.95.47.176 7 7 24265 20151025163251
+unassigned.quadranet.com 1 1 3895 20151021143326
+46.99.133.134 3 3 12047 20151021061341
+192-227-248-80-host.colocrossing.com 1 1 3895 20151021070517
+149.129.245.50 1 18 438409 20151006211026
+smtp.front-line.co.nz 24 177 482087 20151014133616
+173.252.105.115 0 1 136467 
+45.116.12.32 1 1 3895 20151022040818
+ip-static-94-242-212-22.server.lu 3 3 11860 20151025223225
+nat-pool1.lincoln.ac.nz 12 29 459888 20151014131159
+70.39.157.193 1 1 6551 20151028094942
+google-proxy-66-249-82-75.google.com 0 4 134908 
+msnbot-199-30-25-57.search.msn.com 0 2 3406 
+103.243.179.90 1 1 3895 20151021162409
+111-89-158-107.staticrdns.eonix.net 2 2 2275 20151024114507
+103.246.38.196 2 2 23273 20151016172118
+155.94.134.152.static.quadranet.com 1 1 3895 20151027044046
+150-70-97-120.trendmicro.com 1 1 6393 20151014133609
+116.212.213.178 4 21 441330 20151020160700
+smtp.ymca.co.nz 1 3 2455 20151013143233
+212-83-131-201.rev.poneytelecom.eu 14 14 147798 20151025142314
+210.55.200.166 18 103 2213022 20151012114906
+118-92-70-205.dsl.dyn.ihug.co.nz 3 37 631558 20151006103106
+host-196.219.204.112-static.tedata.net 1 18 438409 20151004203851
+h.moreover.com 2 2 4093 20151020115739
+219-89-114-176.adsl.xtra.co.nz 2 19 438793 20151020132145
+182.54.162.136 7 53 230139 20151020144342
+251.79.224.49.dyn.cust.vf.net.nz 3 15 261759 20151004120834
+202-154-145-181.ubs-dynamic.connections.net.nz 14 31 453475 20151012214756
+150-70-173-50.trendmicro.com 1 1 6393 20151014100031
+23.231.25.180 2 2 2275 20151024160529
+213.177.105.14 1 1 3895 20151022141537
+202.93.141.66 1 1 3895 20151021175421
+203-167-188-36.dsl.clear.net.nz 3 20 440324 20151014140332
+208.91.115.10 10 46 397065 20151027213351
+node-c78.pool-1-0.dynamic.totbb.net 3 3 5670 20151025165150
+google-proxy-66-249-82-196.google.com 0 14 453170 
+173.252.113.118 0 1 136467 
+202.131.100.202 1 1 3895 20151021062152
+pf-us-1.printfriendly.com 1 1 2455 20151007215056
+. 1 1 3895 20151026083544
+202.37.36.66 5 22 444432 20151001134330
+162.244.13.26 1 1 3395 20151024073805
+209-234-42-68.unassigned.ntelos.net 1 18 438450 20151014093409
+5-248-89-16-broadband.kyivstar.net 1 1 2455 20151009054229
+host.my-tss.com 2 2 7290 20151021065505
+195-154-34-121.rev.poneytelecom.eu 2 2 7790 20151025145151
+msnbot-207-46-13-102.search.msn.com 0 2 30600 
+104.247.99.248 1 1 3895 20151021065507
+node-jqb.pool-180-180.dynamic.totbb.net 5 5 9248 20151025071001
+198.52.181.249 2 2 7790 20151025223316
+lumumba.torservers.net 1 1 2455 20151002135528
+bas10-london14-1176140189.dsl.bell.ca 2 19 438434 20151002065916
+msnbot-199-30-25-24.search.msn.com 0 15 405389 
+date.rock-server.net 1 1 3895 20151023002227
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20151001 56 105 1381291 4
+20151002 8 42 889286 4
+20151003 6 23 10290 2
+20151004 6 52 1024404 3
+20151005 6 43 907286 4
+20151006 19 129 2615280 8
+20151007 20 90 1794817 5
+20151008 63 164 2628070 7
+20151009 8 47 1046792 4
+20151010 16 38 498981 3
+20151011 141 939 2369930 2
+20151012 473 4407 8062048 10
+20151013 249 632 10283215 10
+20151014 125 522 5555802 15
+20151015 70 142 1778797 4
+20151016 67 254 4061804 6
+20151018 5 22 444499 2
+20151019 12 47 1029663 2
+20151020 1425 8157 17570213 17
+20151021 44 135 2270772 23
+20151022 42 113 1811056 17
+20151023 23 40 548301 11
+20151024 100 255 3761427 20
+20151025 51 119 149211 14
+20151026 45 156 1999184 9
+20151027 1055 5168 11591598 23
+20151028 1191 4773 7469378 23
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 10
+5mn-15mn 14
+30s-2mn 25
+2mn-5mn 12
+15mn-30mn 11
+0s-30s 169
+30mn-1h 10
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 91
+/update/ 747 1817448 3 0
+/ 746 1789579 153 80
+/display.php 584 1099089 0 26
+/update/display.php 496 1063971 0 3
+/display 337 695651 0 11
+/update/css/fnt.ttf 293 464288 0 2
+/admin 250 799420 3 2
+/themes/bright/css/fnt.ttf 235 1741080 1 10
+/thumb 222 15762 0 0
+/wordpress/ 148 450402 45 20
+/wordpress/wp-admin/options-reading.php 1 6747 0 0
+/resetdb 4 468 0 0
+/wordpress/wp-admin/profile.php 2 16253 0 0
+/admin.php 12 19271 0 0
+/wordpress/manufacturing-and-technology/ 20 128969 0 0
+/wordpress/wp-admin/post.php 10 250349 0 0
+/update/login.php 3 135 0 0
+// 1 109 0 0
+/wordpress/creative-industries/ 20 87156 0 0
+/wordpress/wp-admin/images/wordpress-logo.svg 7 1521 0 0
+/wordpress/wp-login.php 56 63916 8 14
+/reset-1-0CnJV3dAcEWb0tqXPolb 1 1401 0 0
+/light/ 39 98245 1 3
+/update/admin 3 4551 0 0
+/light/display.php 51 97190 1 4
+/changepassword 15 24935 0 0
+/wordpress/wp-admin/upload.php 2 30921 0 0
+/feedback.php 5 125 0 2
+/light/css/fnt.ttf 20 522324 0 0
+/wordpress/wp-admin/theme-editor.php 13 132440 0 0
+/watch.php 146 29801 1 18
+/wordpress/wp-admin/load-styles.php 3 250160 0 0
+/download.php 6 151137 0 1
+/update/themes/discover/css/fnt.ttf 54 95984 0 0
+/update/theme.php 18 360 0 0
+/wordpress/xmlrpc.php 6 1167 0 6
+/update/watch.php 28 5807 1 0
+/reset-1-krng6FT1k6F7E3tmmJJi 1 1403 0 0
+/themes/clarity/css/fnt.ttf 18 341532 0 0
+/resetpassword 29 38708 0 0
+/wordpress/wp-content/themes/twentythirteen/genericons/font/genericons-regular-webfont.eot 1 14935 0 0
+/light/watch.php 9 1860 0 1
+/wordpress/sample-page/ 1 5151 0 0
+/wordpress/wp-admin/edit.php 9 84528 0 0
+/wordpress/wp-admin/options-discussion.php 2 15405 0 0
+/wordpress/2015/10/19/4me/ 63 270417 33 41
+/wordpress/wp-admin/plugins.php 1 8296 0 0
+/update/themes/clarity/css/fnt.ttf 5 75896 0 0
+/reset-1-4ohybBCGrW3RU01gweOt 3 4398 0 0
+/wordpress/wp-admin/options-writing.php 1 6494 0 0
+/wordpress/feed/ 1 698 0 1
+/wordpress/wp-admin/setup-config.php 4 5419 0 0
+/wordpress/sadd/ 22 99731 0 0
+/theme 43 860 0 0
+/login 28 1249 0 0
+/wordpress/wp-admin/install.php 6 12672 1 1
+/wordpress/2015/10/19/hello-world/ 1 5804 0 0
+/wordpress/wp-admin/edit-comments.php 6 67468 0 0
+/wordpress/wp-admin/themes.php 6 52147 0 0
+/wordpress/primary-industries/ 2 10975 0 0
+/update 3 417 0 0
+/update/themes/light/css/fnt.ttf 19 58036 0 0
+/wordpress/wp-admin/widgets.php 3 30266 0 0
+/login.php 10 446 0 1
+/wordpress/wp-admin/customize.php 40 1169864 0 0
+/wordpress/wp-admin/load-scripts.php 17 983574 0 0
+/wordpress/wp-admin/options-permalink.php 1 6795 0 0
+/reset-1-128t5uuHpRsHtgIC8bPF 1 1466 0 0
+/resetdb.php 8 938 0 0
+/watch 45 9195 0 3
+/reset-1-bbel3NeB9tctfedPpeFv 3 4389 0 0
+/wordpress/social-and-community-services/ 13 83619 0 0
+/wordpress/wp-admin/admin-ajax.php 75 12139 0 0
+/wordpress/wp-admin/options-media.php 1 5938 0 0
+/update/admin.php 9 15652 0 0
+/add 19 573 0 0
+/wordpress/wp-admin/options-general.php 2 28020 0 0
+/reset-1-OU6tjGFxJc0os0KfzvFV 8 11290 0 0
+/wordpress/wp-admin/ 5 59253 0 0
+/wordpress/construction-and-infrastructure/ 9 43650 0 0
+/delete 4 146 0 0
+/wordpress/2015/10/28/hello-world/ 1 4305 0 1
+/resetpw.php 2 3800 0 0
+/wordpress/otago-polytechnic/ 3 12306 0 0
+/theme.php 60 1200 1 0
+/wordpress/wp-admin/post-new.php 9 217141 0 0
+/wordpress/service-industries/ 6 35636 0 0
+/index.php 65 152219 0 0
+/update/themes/bright/css/fnt.ttf 3 58036 0 0
+/PasswordTest.php 15 3514 0 0
+/wordpress/wp-admin/async-upload.php 1 553 0 0
+END_SIDER

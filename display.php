@@ -1,14 +1,16 @@
 <?php
 
-	include('./includes/header.inc.php');
+	include("./includes/functional.inc.php");
 
 	$page = ""; // initial value of nothing
 
 	if(isset($_GET['p'])) {
 		$page = $_GET['p'];
+	}else{
+		$page = "0";
 	}
+	
 
-	include('./pages/'.$page.'.inc.php');
+	GetVideoThumbs($page);
 
-	include('./includes/footer.inc.php');
 ?>
