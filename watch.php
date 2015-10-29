@@ -1,7 +1,11 @@
 <?php
 
 
+<<<<<<< HEAD
 	include('./includes/functional.inc.php');
+=======
+	include('./includes/header.inc.php');
+>>>>>>> origin/master
 
 	if (!isset($_GET['vid'])) { header("location: ./"); }
 	$vID = $_GET['vid'];
@@ -37,6 +41,11 @@
 	echo ("
 					<big id=\"subtitle\" style=\"background: ".$color." !important;\">".$vidTitle."</big>
 					<iframe width=\"100%\" height=\"480\" src=\"".$vidUrl."\" frameborder=\"0\" allowfullscreen></iframe>
+<<<<<<< HEAD
+=======
+					<a href=\"javascript:window.history.back();\">Go Back</a>
+				</p>
+>>>>>>> origin/master
 				
 	");
 

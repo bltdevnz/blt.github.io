@@ -1,18 +1,39 @@
 <?php
 
+<<<<<<< HEAD
 	include("functional.inc.php");
 
 	global $pageName;
+=======
+	include("login.inc.php");
+	include("theme.inc.php");
+>>>>>>> origin/master
 
 ?>
 
 <html>
 <head>
+<<<<<<< HEAD
 	<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>4Me</title>
 	<meta name="Description" content="4 Me is a programme organised by the Malcam Foundation which is Families discovering the REAL employment opportunities.">
 	<meta name="Keywords" content="jobs, 4me, youth, career, education, job, malcolm, cameron, blt, school, college, university, polytechnic, opportunity, opportunities, uni, poly, polytech, kiwi, teen, help, work, malcam, foundation, trust, malcam4me, malcam4me.kiwi, fun, enjoy, videos, information, help, how, to, get, money, in, pocket, fast, because, i, need, a, goat, in, dunedin">
+=======
+	<title>4 Me - Test Site</title>
+	<?php GetTheme(); ?>
+	<link  href="./css/all.css" rel="stylesheet"> 
+	<link rel="stylesheet" href="./css/wheel.css" type="text/css" />
+	<link  href="./css/fotorama.css" rel="stylesheet"> 
+	<script src="./js/jquery.min.js"></script>
+	
+	<script src="./js/fotorama.js"></script>
+	<script src="./js/scripts.js"></script>
+<!--[if IE]>
+	<script src="./js/ie.js"><script>
+<![endif]-->
+	<!--<script src="./js/facebook_sdk.js"></script>-->
+>>>>>>> origin/master
 
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 	<link rel="stylesheet" href="./<?php GetThemeDirectory(); ?>/css/4me.css" type="text/css">
@@ -28,6 +49,7 @@
             attrs[attr.nodeName] = attr.nodeValue;
         });
 
+<<<<<<< HEAD
         this.replaceWith(function() {
             return $("<" + newType + "/>", attrs).append($(this).contents());
         });
@@ -39,6 +61,11 @@
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+=======
+	<ul id="menu">
+		<?php LoggedIn(); ?>
+	</ul>
+>>>>>>> origin/master
 
   ga('create', 'UA-67010706-1', 'auto');
   ga('send', 'pageview');

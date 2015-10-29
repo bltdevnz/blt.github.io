@@ -367,12 +367,25 @@ $retVal = ('
 
 	function ScanDeadLinks() {
 
+<<<<<<< HEAD
 
 
 		$results = mysql_query("SELECT videoUrl FROM videos");
 		$valid = 0;
 		$invalid = 0;
 
+=======
+		$q = mysql_query("SELECT categoryName, categoryColor, categoryDesc FROM categories WHERE (categoryID = ".$categoryID.");");
+
+		$f = mysql_fetch_object($q);
+		$title = $f->categoryName;
+		$color = $f->categoryColor;
+		$desc = $f->categoryDesc;
+		echo ("
+			<big id=\"title\" style=\"box-shadow: inset 0px 0px 15px ".$color." !important;\">".$title."</big>
+			<big id=\"subtitle\" style=\"box-shadow: inset 0px 0px 15px ".$color." !important; text-transform: none; text-shadow: none; letter-spacing: 0px !important;\">".$desc."</big>
+		<table>");
+>>>>>>> origin/master
 		while($row = mysql_fetch_row($results))
 		{
 			if (ValidLink($row[0])) {

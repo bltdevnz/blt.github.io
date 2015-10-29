@@ -7,7 +7,11 @@
 	if(isset($_GET['p'])) {
 		$page = $_GET['p'];
 	}else{
+<<<<<<< HEAD
 		$page = "0";
+=======
+		$page = "index";
+>>>>>>> origin/master
 	}
 	
 
